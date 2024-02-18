@@ -1,0 +1,3123 @@
+[
+    {
+        "title": "E-textile capacitive electrodes: Fabric or thread: designing an E-textile cushion for sitting posture detection",
+        "abstract": "Back pain is one of the most common illnesses in Western civilizations. Office work and lack of motion can lead to deterioration over time. Many people already use seat cushions to improve their posture during work or leisure. In this work, we present ...",
+        "citation_num": 1,
+        "download_num": 254,
+        "conference": "PETRA '19",
+        "authors": [
+            "Silvia Rus",
+            "Andreas Braun",
+            "Florian Kirchbuchner",
+            "Arjan Kuijper"
+        ],
+        "contentType": "short-paper",
+        "doi": "https://doi.org/10.1145/3316782.3316785",
+        "date": "June 2019",
+        "year": "2019"
+    },
+    {
+        "title": "Aural Fabric: an interactive textile sonic map",
+        "abstract": "The Aural Fabric is an interactive textile sonic map created to promote engagement in acoustic awareness towards the built environment. It fosters discussions on the aural environment of our cities by allowing users to experience binaural recordings ...",
+        "citation_num": 3,
+        "download_num": 179,
+        "conference": "AM '17",
+        "authors": [
+            "Alessia Milo",
+            "Joshua D. Reiss"
+        ],
+        "contentType": "demonstration",
+        "doi": "https://doi.org/10.1145/3123514.3123565",
+        "date": "August 2017",
+        "year": "2017"
+    },
+    {
+        "title": "Textile++: low cost textile interface using the principle of resistive touch sensing",
+        "abstract": "Here we introduce our system Textile++, a touch-sensitive cloth consisting of fiber materials. With this system, it is possible to detect the XY coordinate position of the substance touching the cloth. In addition, pressure can be detected. Textile++ is ...",
+        "citation_num": 8,
+        "download_num": 460,
+        "conference": "SIGGRAPH '17",
+        "authors": [
+            "Keisuke Ono",
+            "Shinichiro Iwamura",
+            "Akira Ogie",
+            "Tetsuaki Baba",
+            "Paul Haimes"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3084863.3084868",
+        "date": "July 2017",
+        "year": "2017"
+    },
+    {
+        "title": "Social fabric fitness: the design and evaluation of wearable E-textile displays to support group running",
+        "abstract": "Group exercise has multiple benefits including greater adherence to fitness regimens, increased enjoyment among participants, and enhanced workout intensity. While a large number of technology tools have emerged to support real-time feedback of ...",
+        "citation_num": 104,
+        "download_num": 1603,
+        "conference": "CHI '14",
+        "authors": [
+            "Matthew Mauriello",
+            "Michael Gubbels",
+            "Jon E. Froehlich"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2556288.2557299",
+        "date": "April 2014",
+        "year": "2014"
+    },
+    {
+        "title": "Textile Manager: Design and Development of a Persuasive Game about Sustainable Textile Production",
+        "abstract": "Textile production is a large and profitable industry that still struggles with issues relating to environmental impact and societal concerns like labour rights. Incorporating sustainable practices to reduce these issues will be highly beneficial for ...",
+        "citation_num": 3,
+        "download_num": 239,
+        "conference": "CHI EA '18",
+        "authors": [
+            "Katja Rogers",
+            "Michael Olah",
+            "Michael Weber"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3170427.3188623",
+        "date": "April 2018",
+        "year": "2018"
+    },
+    {
+        "title": "Active textile tailoring",
+        "abstract": "Active Textile Tailoring is a new process for creating smart textiles in which its fibers change shape and structure in response to heat. This adaptive textile can create a new type of sizing customization or aesthetic patterning for the preference of ...",
+        "citation_num": 6,
+        "download_num": 445,
+        "conference": "SIGGRAPH '19",
+        "authors": [
+            "Lavender Tessmer",
+            "Carmel Dunlap",
+            "Bjorn Sparrman",
+            "Schendy Kernizan",
+            "Jared Laucks",
+            "Skylar Tibbits"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3305367.3327995",
+        "date": "July 2019",
+        "year": "2019"
+    },
+    {
+        "title": "Handcrafting textile mice",
+        "abstract": "This workshop will explore the use of low-cost materials and tools to build textile-based interfaces that replace the current hard-shell computer mice or laptop touchpads that you use to navigate your screen. We will introduce a range of methods for ...",
+        "citation_num": 6,
+        "download_num": 338,
+        "conference": "DIS '10",
+        "authors": [
+            "Hannah Perner-Wilson",
+            "Leah Buechley"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/1858171.1858257",
+        "date": "August 2010",
+        "year": "2010"
+    },
+    {
+        "title": "Scalable Fabric: flexible task management",
+        "abstract": "Our studies have shown that as displays become larger, users leave more windows open for easy multitasking. A larger number of windows, however, may increase the time that users spend arranging and switching between tasks. We present Scalable Fabric, a ...",
+        "citation_num": 62,
+        "download_num": 1050,
+        "conference": "AVI '04",
+        "authors": [
+            "George Robertson",
+            "Eric Horvitz",
+            "Mary Czerwinski",
+            "Patrick Baudisch",
+            "Dugald Ralph Hutchings",
+            "Brian Meyers",
+            "Daniel Robbins",
+            "Greg Smith"
+        ],
+        "contentType": "Article",
+        "doi": "https://doi.org/10.1145/989863.989874",
+        "date": "May 2004",
+        "year": "2004"
+    },
+    {
+        "title": "3D printing on fabric",
+        "abstract": "This workshop will show how 3D printing with embedded fabric can be used for Cosplay & Fashion. These projects will inspire others to push the boundaries of how we use 3D printing.",
+        "citation_num": 0,
+        "download_num": 0,
+        "conference": "SIGGRAPH '19",
+        "authors": [
+            "David Shorey"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3306306.3338856",
+        "date": "January 2020",
+        "year": "2020"
+    },
+    {
+        "title": "Fabric(a): Co-crafting Textiles with Robots",
+        "abstract": "With the influence of emerging digital technologies and digital fabrication techniques, textile craft practice has been evolving into new forms and dimensions interweaving digital and analog qualities. Fabric(a) project aims at experimenting with ...",
+        "citation_num": 0,
+        "download_num": 64,
+        "conference": "HAI '20",
+        "authors": [
+            "Secil Ugur Yavuz"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/3406499.3418770",
+        "date": "November 2020",
+        "year": "2020"
+    },
+    {
+        "title": "Mosaic textile: wearable ambient display with non-emissive color-changing modules",
+        "abstract": "Mosaic Textile is a wearable ambient display using non-emissive color-changing textiles. The system consists of textile modules, their controllers and substrate fabric. The textile module is called \"Fabcell\" (fabric element) and is composed of ...",
+        "citation_num": 57,
+        "download_num": 2042,
+        "conference": "ACE '06",
+        "authors": [
+            "Akira Wakita",
+            "Midori Shibutani"
+        ],
+        "contentType": "Article",
+        "doi": "https://doi.org/10.1145/1178823.1178880",
+        "date": "June 2006",
+        "year": "2006"
+    },
+    {
+        "title": "Designing an interface between the textile and electronics using e-textile composites",
+        "abstract": "A design concept for textile-electronics integration is presented. The design describes utilization of textile composites for building textile circuits. Customized electronic blocks are placed between two e-textile layers. Textile circuits are formed by ...",
+        "citation_num": 2,
+        "download_num": 551,
+        "conference": "ISWC '14 Adjunct",
+        "authors": [
+            "Matija Varga",
+            "Gerhard Tr\u00f6ster"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2641248.2666717",
+        "date": "September 2014",
+        "year": "2014"
+    },
+    {
+        "title": "Textile displays: using textiles to investigate computational technology as design material",
+        "abstract": "As we face an increasingly heterogeneous collection of computational devices, there is a need to develop a general approach to what it is that we design as we create computational things. One such basic approach is to consider computational technology ...",
+        "citation_num": 15,
+        "download_num": 1145,
+        "conference": "NordiCHI '02",
+        "authors": [
+            "Lars Halln\u00e4s",
+            "Linda Melin",
+            "Johan Redstr\u00f6m"
+        ],
+        "contentType": "Article",
+        "doi": "https://doi.org/10.1145/572020.572039",
+        "date": "October 2002",
+        "year": "2002"
+    },
+    {
+        "title": "Hydrogel-Textile Composites: Actuators for Shape-Changing Interfaces",
+        "abstract": "The current work examines interactions that are enabled when depositing a human-safe hydrogel onto textile substrates. These hydrogel-textile composites are water-responsive, supporting reversible actuation. To enable these interactions, we describe a ...",
+        "citation_num": 13,
+        "download_num": 870,
+        "conference": "CHI EA '20",
+        "authors": [
+            "Michael L. Rivera",
+            "Jack Forman",
+            "Scott E. Hudson",
+            "Lining Yao"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3334480.3382788",
+        "date": "April 2020",
+        "year": "2020"
+    },
+    {
+        "title": "Soft printing with fabric",
+        "abstract": "3-D printed objects made of fabric could be flexible and deformable, bringing possibilities to new sensors and actuators.",
+        "citation_num": 5,
+        "download_num": 519,
+        "conference": "XRDS",
+        "authors": [
+            "Huaishu Peng",
+            "Scott Hudson",
+            "Jennifer Mankoff",
+            "James McCann"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2893499",
+        "date": "April 2016",
+        "year": "2016"
+    },
+    {
+        "title": "Multi-layer e-textile circuits",
+        "abstract": "Stitched e-textile circuits facilitate wearable, flexible, comfortable wearable technology. However, while stitched methods of e-textile circuits are common, multi-layer circuit creation remains a challenge. Here, we present methods of stitched multi-...",
+        "citation_num": 13,
+        "download_num": 387,
+        "conference": "UbiComp '12",
+        "authors": [
+            "Lucy E. Dunne",
+            "Kaila Bibeau",
+            "Lucie Mulligan",
+            "Ashton Frith",
+            "Cory Simon"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/2370216.2370348",
+        "date": "September 2012",
+        "year": "2012"
+    },
+    {
+        "title": "Making textile sensors from scratch",
+        "abstract": "This workshop will explore the use of low-cost materials and tools to build textile-based interfaces. We will introduce a range of methods for handcrafting textile sensors and circuitry. Participants will learn techniques developed by the workshop ...",
+        "citation_num": 25,
+        "download_num": 685,
+        "conference": "TEI '10",
+        "authors": [
+            "Hannah Perner-Wilson",
+            "Leah Buechley"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/1709886.1709972",
+        "date": "January 2010",
+        "year": "2010"
+    },
+    {
+        "title": "Crafting Tools for Textile Electronic Making",
+        "abstract": "This abstract introduces a set of tools for electronic textile crafts. The goal is to combine established textile craft routines with electronic functionalities while avoiding being limited to either crafting or engineering qualities. A discipline's ...",
+        "citation_num": 16,
+        "download_num": 330,
+        "conference": "CHI EA '17",
+        "authors": [
+            "Irene Posch"
+        ],
+        "contentType": "extended-abstract",
+        "doi": "https://doi.org/10.1145/3027063.3052972",
+        "date": "May 2017",
+        "year": "2017"
+    },
+    {
+        "title": "PocketView: Through-Fabric Information Displays",
+        "abstract": "People often have to remove their phone from an inaccessible location like a pocket to view things like notifications and directions. We explore the idea of viewing such information through the fabric of a pocket using low resolution bright LED matrix ...",
+        "citation_num": 1,
+        "download_num": 534,
+        "conference": "UIST '21",
+        "authors": [
+            "Antony Albert Raj Irudayaraj",
+            "Rishav Agarwal",
+            "Nikhita Joshi",
+            "Aakar Gupta",
+            "Omid Abari",
+            "Daniel Vogel"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3472749.3474766",
+        "date": "October 2021",
+        "year": "2021"
+    },
+    {
+        "title": "Computational design of fabric formwork",
+        "abstract": "We present an inverse design tool for fabric formwork - a process where flat panels are sewn together to form a fabric container for casting a plaster sculpture. Compared to 3D printing techniques, the benefit of fabric formwork is its properties of low-...",
+        "citation_num": 26,
+        "download_num": 497,
+        "conference": "ACM Transactions on Graphics (TOG), Volume 38, Issue 4",
+        "authors": [
+            "Xiaoting Zhang",
+            "Guoxin Fang",
+            "Melina Skouras",
+            "Gwenda Gieseler",
+            "Charlie C. L. Wang",
+            "Emily Whiting"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3306346.3322988",
+        "date": "July 2019",
+        "year": "2019"
+    },
+    {
+        "title": "Alternative Presents for Dynamic Fabric",
+        "abstract": "In this paper we investigate how a combination of \"speculative\" design methods can be used to generate theoretical understandings for dynamic, colour-changing fabrics for garments. Specifically, we combine a first-person, autobiographical, research ...",
+        "citation_num": 6,
+        "download_num": 376,
+        "conference": "DIS '20",
+        "authors": [
+            "Angella Mackey",
+            "Ron Wakkary",
+            "Stephan Wensveen",
+            "Annika Hupfeld",
+            "Oscar Tomico"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3357236.3395447",
+        "date": "July 2020",
+        "year": "2020"
+    },
+    {
+        "title": "Disappearing textile interface with inherent feedforwards",
+        "abstract": "Currently, interactive devices can easily disappear into a wide range of physical context due to the development of microcontrollers, sensors and actuators. However, this disappearing interaction scenario may cause confusion to the users regarding where ...",
+        "citation_num": 4,
+        "download_num": 245,
+        "conference": "AutomotiveUI '19",
+        "authors": [
+            "Haoyu Dong"
+        ],
+        "contentType": "demonstration",
+        "doi": "https://doi.org/10.1145/3349263.3349598",
+        "date": "September 2019",
+        "year": "2019"
+    },
+    {
+        "title": "Textile Game Controllers: Exploring Affordances of E-Textile Techniques as Applied to Alternative Game Controllers",
+        "abstract": "Invested in increasing access to computational literacy, this paper explores the development of a series of free public workshops in partnership with an equity-seeking group. These workshops cover e-textile techniques that lend themselves to making ...",
+        "citation_num": 3,
+        "download_num": 384,
+        "conference": "TEI '21",
+        "authors": [
+            "Kate Hartman",
+            "Emma Westecott",
+            "Izzie Colpitts-Campbell",
+            "Jennie Robinson Faber",
+            "Yiyi Shao",
+            "Chris Luginbuhl",
+            "Olivia Prior",
+            "Manisha Laroia"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3430524.3446069",
+        "date": "February 2021",
+        "year": "2021"
+    },
+    {
+        "title": "From fiber to fabric: interactive clothing for virtual humans",
+        "abstract": "The virtual world is currently limited in the graphic representation and visualization of material designs. The limitation is in part due to the limited range and the relative simplicity of spectral properties of the materials simulated in a virtual ...",
+        "citation_num": 0,
+        "download_num": 737,
+        "conference": "SA '14",
+        "authors": [
+            "George Baciu",
+            "Wingo Sai-Keung Wong"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2668956.2668959",
+        "date": "November 2014",
+        "year": "2014"
+    },
+    {
+        "title": "3D Printed Fabric: Techniques for Design and 3D Weaving Programmable Textiles",
+        "abstract": "We present a technique for fabricating soft and flexible textiles using a consumer grade fused deposition modeling (FDM) 3D printer. By controlling the movement of the print header, the FDM alternately weaves the stringing fibers across a row of ...",
+        "citation_num": 38,
+        "download_num": 1745,
+        "conference": "UIST '19",
+        "authors": [
+            "Haruki Takahashi",
+            "Jeeeun Kim"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3332165.3347896",
+        "date": "October 2019",
+        "year": "2019"
+    },
+    {
+        "title": "Sound-Based Fault Detection For Textile Machinery",
+        "abstract": " The textile sector is one of the vital driving forces in the economy of south Asian countries like Bangladesh, India, Pakistan, etc. However, most of the textile industries suffer from frequent machinery faults everyday which reduces their productivity,...",
+        "citation_num": 0,
+        "download_num": 55,
+        "conference": "NSysS '22",
+        "authors": [
+            "Md. Harunur Rashid Bhuiyan",
+            "Muhammad Tafsirul Islam",
+            "Nazmul Islam",
+            "Mynul Islam",
+            "Anupom Mondol",
+            "Tarik Reza Toha",
+            "Shaikh Md. Mominul Alam"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3569551.3569557",
+        "date": "December 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Fabric Defects Detection based on SSD",
+        "abstract": "In this paper, Fabric defect detection is a challenging task because of the complex texture. Deep learning technology provide a promising solution. As a kind of deep learning object detection model. Single Shot Multibox Detector(SSD)achieves good ...",
+        "citation_num": 20,
+        "download_num": 285,
+        "conference": "ICGSP '18",
+        "authors": [
+            "Zhoufeng Liu",
+            "Shanliang Liu",
+            "Chunlei Li",
+            "Shumin Ding",
+            "Yan Dong"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3282286.3282300",
+        "date": "October 2018",
+        "year": "2018"
+    },
+    {
+        "title": "Smart Textile Using 3D Printed Conductive Sequins",
+        "abstract": " In this study, we propose the design and implementation of a smart textile using conductive sequins produced by a 3D printer based on traditional sequin embroidery. ",
+        "citation_num": 1,
+        "download_num": 261,
+        "conference": "TEI '22",
+        "authors": [
+            "Hua Ma",
+            "Junichi Yamaoka"
+        ],
+        "contentType": "Work in Progress",
+        "doi": "https://doi.org/10.1145/3490149.3505577",
+        "date": "February 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Simulation of printed-on-fabric assemblies",
+        "abstract": "Printing-on-fabric is an affordable and practical method for creating self-actuated deployable surfaces: thin strips of plastic are deposited on top of a pre-stretched piece of fabric using a commodity 3D printer; the structure, once released, morphs to ...",
+        "citation_num": 1,
+        "download_num": 259,
+        "conference": "SCF '22",
+        "authors": [
+            "David Jourdan",
+            "Victor Romero",
+            "Etienne Vouga",
+            "Adrien Bousseau",
+            "M\u00e9lina Skouras"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3559400.3562001",
+        "date": "October 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Surface-mount manufacturing for e-textile circuits",
+        "abstract": "Stitched methods of e-textile fabrication offer durability and flexibility benefits, as well as relatively un-constrained layout patterns. The ability to affix discrete component packages without a PCB substrate would improve the overall flexibility and ...",
+        "citation_num": 27,
+        "download_num": 994,
+        "conference": "ISWC '17",
+        "authors": [
+            "Md. Tahmidul Islam Molla",
+            "Steven Goodman",
+            "Nicholas Schleif",
+            "Mary Ellen Berglund",
+            "Cade Zacharias",
+            "Crystal Compton",
+            "Lucy E. Dunne"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3123021.3123058",
+        "date": "September 2017",
+        "year": "2017"
+    },
+    {
+        "title": "Everyday creativity in novice e-textile designs",
+        "abstract": "We examine e-textile designs, a new domain combining crafts, circuitry, and programming with the LilyPad Arduino, to better understand how novice designers develop creative technical solutions. Our analyses draw from observation and interviews conducted ...",
+        "citation_num": 11,
+        "download_num": 405,
+        "conference": "C&C '11",
+        "authors": [
+            "Yasmin B. Kafai",
+            "Deborah A. Fields",
+            "Kristin A. Searle"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/2069618.2069692",
+        "date": "November 2011",
+        "year": "2011"
+    },
+    {
+        "title": "Energy-Aware Routing for E-Textile Applications",
+        "abstract": "As the scale of electronic devices shrinks, \"electronic textiles\" (e-textiles) will make possible a wide variety of novel applications which are currently unfeasible. Due to the wearability concerns, low-power techniques are critical for e-textile ...",
+        "citation_num": 2,
+        "download_num": 15,
+        "conference": "DATE '05",
+        "authors": [
+            "Jung-Chun Kao",
+            "Radu Marculescu"
+        ],
+        "contentType": "Article",
+        "doi": "https://doi.org/10.1109/DATE.2005.138",
+        "date": "March 2005",
+        "year": "2005"
+    },
+    {
+        "title": "2013 e-textile swatchbook exchange: the importance of sharing physical work",
+        "abstract": "The E-Textile Swatch Exchange is a platform for sharing physical work samples in the field of electronic textiles. The exchange wishes to emphasize the importance of physicality and quality workmanship in an increasingly digital world. Individuals and ...",
+        "citation_num": 27,
+        "download_num": 389,
+        "conference": "ISWC '14 Adjunct",
+        "authors": [
+            "Anja Hertenberger",
+            "Barbro Scholz",
+            "Beam Contrechoc",
+            "Becky Stewart",
+            "Ebru Kurbak",
+            "Hannah Perner-Wilson",
+            "Irene Posch",
+            "Isabel Cabral",
+            "Jie Qi",
+            "Katharina Childs",
+            "Kristi Kuusk",
+            "Lynsey Calder",
+            "Marina Toeters",
+            "Marta Kisand",
+            "Martijn ten Bh\u00f6mer",
+            "Maurin Donneaud",
+            "Meg Grant",
+            "Melissa Coleman",
+            "Mika Satomi",
+            "Mili Tharakan",
+            "Pauline Vierne",
+            "Sara Robertson",
+            "Sarah Taylor",
+            "Troy Robert Nachtigall"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2641248.2641276",
+        "date": "September 2014",
+        "year": "2014"
+    },
+    {
+        "title": "Modular E-Textile Platform for Real-Time Sensing",
+        "abstract": "We demonstrate a modular e-textile sports garment with the ability to house different types of sensors, using temperature sensing as an example. To connect circuit modules, flexible interposers are used to create interfaces between materials which are ...",
+        "citation_num": 2,
+        "download_num": 117,
+        "conference": "ISWC '22",
+        "authors": [
+            "Jessica Stanley",
+            "Katy Griggs",
+            "Oliver Handford",
+            "John A. Hunt",
+            "Phil Kunovski",
+            "Yang Wei"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3544794.3560293",
+        "date": "December 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Intra-Acting Body and Textile Expressions Becoming with Digital Movement Translation: Exploring relational expressions of the body and textiles using a human-robot-textile installation",
+        "abstract": "Body-centric design disciplines that utilize digitization processes such as fashion are tasked to engage with theoretical concepts commonly applied in digital-native design disciplines in order to use digital technologies as more than simple tools. ...",
+        "citation_num": 0,
+        "download_num": 136,
+        "conference": "CHI EA '23",
+        "authors": [
+            "Jan Tepe",
+            "Emanuel Gollob",
+            "Julio Andres Escudero",
+            "Amir Bastani"
+        ],
+        "contentType": "extended-abstract",
+        "doi": "https://doi.org/10.1145/3544549.3582736",
+        "date": "April 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Intra-Acting Body and Textile Expressions Becoming with Digital Movement Translation: Exploring relational expressions of the body and textiles using a human-robot-textile installation",
+        "abstract": "Body-centric design disciplines that utilize digitization processes such as fashion are tasked to engage with theoretical concepts commonly applied in digital-native design disciplines in order to use digital technologies as more than simple tools. ...",
+        "citation_num": 0,
+        "download_num": 136,
+        "conference": "CHI EA '23",
+        "authors": [
+            "Jan Tepe",
+            "Emanuel Gollob",
+            "Julio Andres Escudero",
+            "Amir Bastani"
+        ],
+        "contentType": "extended-abstract",
+        "doi": "https://doi.org/10.1145/3544549.3582736",
+        "date": "April 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Ultra personalization and textile thinking in interaction design",
+        "abstract": "Textile Thinking and Ultra Personalization are guiding the PhD research in wearable on body sensing in the creation of garments / accessories. Textile Thinking involves the superficial surface of a design process that attempts to create a point of view ...",
+        "citation_num": 0,
+        "download_num": 279,
+        "conference": "UbiComp '16",
+        "authors": [
+            "Troy Nachtigall"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2968219.2979142",
+        "date": "September 2016",
+        "year": "2016"
+    },
+    {
+        "title": "KnitDema: Robotic Textile as Personalized Edema Mobilization Device",
+        "abstract": "Hand edema, defined as swelling of the hands caused by excess fluid accumulation, is a pervasive condition affecting a person\u2019s range of motion and functional ability. However, treatment strategies remain limited to time-consuming manual massage by ...",
+        "citation_num": 2,
+        "download_num": 434,
+        "conference": "CHI '23",
+        "authors": [
+            "Jin Hee (Heather) Kim",
+            "Joan Stilling",
+            "Michael O'Dell",
+            "Cindy Hsin-Liu Kao"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3544548.3581343",
+        "date": "April 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Weaving electronic circuit into two-layer fabric",
+        "abstract": "This paper describes the creation of a woven two-layer fabric, created using two-warp system. The fabric is designed to contain components inside the two layers, with the power supply signals on top- and bottom-layers. The surface mounted components are ...",
+        "citation_num": 14,
+        "download_num": 269,
+        "conference": "UbiComp/ISWC'15 Adjunct",
+        "authors": [
+            "Jussi Mikkonen",
+            "Emmi Pouta"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/2800835.2800936",
+        "date": "September 2015",
+        "year": "2015"
+    },
+    {
+        "title": "SenSequins: Smart Textile Using 3D Printed Conductive Sequins",
+        "abstract": " In this research, we used traditional sequin embroidery as the basis and a 3D printer to expand the design space of sequin materials and structures, by developing a new 2.5D smart conductive sequin textile with multiple sensing and interactions as well ...",
+        "citation_num": 2,
+        "download_num": 454,
+        "conference": "UIST '22",
+        "authors": [
+            "Hua Ma",
+            "Junichi Yamaoka"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3526113.3545688",
+        "date": "October 2022",
+        "year": "2022"
+    },
+    {
+        "title": "A telepresence system using a flexible textile display",
+        "abstract": " In this study, we developed a telepresence system which has a flexible and deformable screen. The screen deforms in synchronization with the move of the objects on the projected video. This deformation of the display surface provides the perception of ...",
+        "citation_num": 0,
+        "download_num": 173,
+        "conference": "ICMI '16",
+        "authors": [
+            "Kana Kushida",
+            "Hideyuki Nakanishi"
+        ],
+        "contentType": "demonstration",
+        "doi": "https://doi.org/10.1145/2993148.2998520",
+        "date": "October 2016",
+        "year": "2016"
+    },
+    {
+        "title": "Data Storage and Interaction using Magnetized Fabric",
+        "abstract": "This paper enables data storage and interaction with smart fabric, without the need for onboard electronics or batteries. To do this, we present the first smart fabric design that harnesses the ferromagnetic properties of conductive thread. Specifically,...",
+        "citation_num": 16,
+        "download_num": 621,
+        "conference": "UIST '17",
+        "authors": [
+            "Justin Chan",
+            "Shyamnath Gollakota"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3126594.3126620",
+        "date": "October 2017",
+        "year": "2017"
+    },
+    {
+        "title": "Tangible E-Textile Interactive Interface for Digital Patternmaking",
+        "abstract": "A common method of generating a garment pattern is by draping fabric on a 3D form. Many apparel designers prefer this tangible process rather than the more abstract process of drafting patterns in 2D using CAD software, but the visualization benefits of ...",
+        "citation_num": 0,
+        "download_num": 47,
+        "conference": "UbiComp/ISWC '23 Adjunct",
+        "authors": [
+            "Olaitan Adeleke",
+            "Heidi Woelfle",
+            "Lucy E. Dunne"
+        ],
+        "contentType": "demonstration",
+        "doi": "https://doi.org/10.1145/3594739.3610717",
+        "date": "October 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Integrating Textile Materials with Electronic Making: Creating New Tools and Practices",
+        "abstract": "We introduce and discuss the design and use of new tools for electronic textile making. Electronic textiles, or eTextiles, are increasingly produced and used in experimental interfaces, wearables, interior design, as well as in the education and maker ...",
+        "citation_num": 40,
+        "download_num": 933,
+        "conference": "TEI '18",
+        "authors": [
+            "Irene Posch",
+            "Geraldine Fitzpatrick"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3173225.3173255",
+        "date": "March 2018",
+        "year": "2018"
+    },
+    {
+        "title": "Biceps fatigue estimation with an E-textile headband",
+        "abstract": "Muscle fatigue monitoring is important for injury prevention in sports. Previous studies have shown that wearable electromyography (EMG) sensors on limb muscles can be used to monitor the level of muscle fatigue continuously. However, there are two main ...",
+        "citation_num": 3,
+        "download_num": 269,
+        "conference": "ISWC '18",
+        "authors": [
+            "Arinobu Niijima",
+            "Takashi Isezaki",
+            "Ryosuke Aoki",
+            "Tomoki Watanabe",
+            "Tomohiro Yamada"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/3267242.3267281",
+        "date": "October 2018",
+        "year": "2018"
+    },
+    {
+        "title": "E-textile Production of Wearable Ambient Notification Devices",
+        "abstract": "Electronic textiles worn on the body provide interesting opportunities for ambient notification within assistive systems, as they can be seamlessly integrated into everyday clothing and accomodate for completely private modalities, such as thermohaptic ...",
+        "citation_num": 7,
+        "download_num": 422,
+        "conference": "DIS '17 Companion",
+        "authors": [
+            "Ebba Frans\u00e9n Waldh\u00f6r",
+            "Pauline Vierne",
+            "Paul Seidler",
+            "Berit Greinke",
+            "Katharina Bredies"
+        ],
+        "contentType": "demonstration",
+        "doi": "https://doi.org/10.1145/3064857.3079181",
+        "date": "June 2017",
+        "year": "2017"
+    },
+    {
+        "title": "The ThreadBoard: Designing an E-Textile Rapid Prototyping Board",
+        "abstract": " E-textiles, which embed circuitry into textile fabrics, blend art and creative expression with engineering, making it a popular choice for STEAM classrooms [6, 12]. Currently, e-textile development relies on tools intended for traditional embedded ...",
+        "citation_num": 15,
+        "download_num": 973,
+        "conference": "TEI '21",
+        "authors": [
+            "Chris Hill",
+            "Michael Schneider",
+            "Ann Eisenberg",
+            "Mark D. Gross"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3430524.3440642",
+        "date": "February 2021",
+        "year": "2021"
+    },
+    {
+        "title": "Detecting bends and fabric folds using stitched sensors",
+        "abstract": "In this paper we describe a novel method for detecting bends and folds in fabric structures. Bending and folding can be used to detect human joint angles directly, or to detect possible errors in the signals of other joint-movement sensors due to fabric ...",
+        "citation_num": 28,
+        "download_num": 661,
+        "conference": "ISWC '13",
+        "authors": [
+            "Guido Gioberto",
+            "James Coughlin",
+            "Kaila Bibeau",
+            "Lucy E. Dunne"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2493988.2494355",
+        "date": "September 2013",
+        "year": "2013"
+    },
+    {
+        "title": "Washability of e-textile stretch sensors and sensor insulation",
+        "abstract": "An effective way to monitor body movements and positions (including physiological signals like breathing) without causing discomfort is through integration of sensors and electronics into base layers of clothing. However, for many applications (...",
+        "citation_num": 11,
+        "download_num": 376,
+        "conference": "ISWC '14",
+        "authors": [
+            "Mary Ellen Berglund",
+            "James Coughlin",
+            "Guido Gioberto",
+            "Lucy E. Dunne"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/2634317.2634326",
+        "date": "September 2014",
+        "year": "2014"
+    },
+    {
+        "title": "Handcrafting textile interfaces from a kit-of-no-parts",
+        "abstract": "This paper explores the idea of handcrafted electronics. We introduce a kit-of-no-parts approach to building electronics from a diverse palette of craft materials, which we argue is more personal, understandable and accessible than the construction of ...",
+        "citation_num": 134,
+        "download_num": 1679,
+        "conference": "TEI '11",
+        "authors": [
+            "Hannah Perner-Wilson",
+            "Leah Buechley",
+            "Mika Satomi"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/1935701.1935715",
+        "date": "January 2010",
+        "year": "2010"
+    },
+    {
+        "title": "A Textile Antenna for Wearable Applications Using RFID Technology",
+        "abstract": "In this paper, we present a configuration of a textile antenna for wearable applications with Radio Frequency Identification (RFID) technology. This antenna operates at a frequency of 2.45GHz and it is composed of a radiation structure with only one ...",
+        "citation_num": 1,
+        "download_num": 139,
+        "conference": "IMCOM '16",
+        "authors": [
+            "T. N. H. Doan",
+            "V. K. Nguyen",
+            "N. C. Dao"
+        ],
+        "contentType": "short-paper",
+        "doi": "https://doi.org/10.1145/2857546.2857621",
+        "date": "January 2016",
+        "year": "2016"
+    },
+    {
+        "title": "Weaving Textile-form Interfaces: A Material-Driven Design Journey",
+        "abstract": "A woven textile-form is a form that is constructed simultaneously as the textile is woven. Interfaces designed with this approach hold undisclosed potential for rich interactions. However, the design of woven textile-form interfaces requires specialised ...",
+        "citation_num": 1,
+        "download_num": 422,
+        "conference": "DIS '23",
+        "authors": [
+            "Alice Buso",
+            "Holly McQuillan",
+            "Milou Voorwinden",
+            "Elvin Karana"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3563657.3596086",
+        "date": "July 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Textile Game Controller: Smart knee pads for Therapeutic Exercising\u00a0",
+        "abstract": "In the field of physiotherapy and rehabilitation, location-independent training has gained importance. We present the further development of a wearable for this purpose including gamification to improve successful training. A wearable was developed to ...",
+        "citation_num": 0,
+        "download_num": 97,
+        "conference": "CHI EA '23",
+        "authors": [
+            "Esther Friederike Zahn",
+            "Hannah Friederike Fischer",
+            "Clara Elisabeth Glei\u00df",
+            "Eleftherios Avramidis",
+            "Gesche Joost"
+        ],
+        "contentType": "demonstration",
+        "doi": "https://doi.org/10.1145/3544549.3583899",
+        "date": "April 2023",
+        "year": "2023"
+    },
+    {
+        "title": "A smart textile sleeve for rehabilitation of knee injuries",
+        "abstract": "A tear of the Anterior Cruciate Ligament (ACL) is a severe knee injury that requires up to a year of rehabilitation. Patients sustaining an ACL injury perform rehabilitation exercises mostly at home unsupervised. Orthopedists meet patients at time ...",
+        "citation_num": 10,
+        "download_num": 422,
+        "conference": "UbiComp '17",
+        "authors": [
+            "Juan Haladjian",
+            "Constantin Scheuermann",
+            "Katharina Bredies",
+            "Bernd Bruegge"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3123024.3123151",
+        "date": "September 2017",
+        "year": "2017"
+    },
+    {
+        "title": "Shape Changing Fabric Samples for Interactive Fashion Design",
+        "abstract": " As technology is integrated into all aspects of our lives, researchers are exploring emerging technologies in the field of fashion design. The substantial growth in the field of functional apparel design, such as the use of smart textiles, encourages ...",
+        "citation_num": 16,
+        "download_num": 2470,
+        "conference": "TEI '21",
+        "authors": [
+            "Daniela Ghanbari Vahid",
+            "Lee Jones",
+            "Audrey Girouard",
+            "Lois Frankel"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3430524.3440633",
+        "date": "February 2021",
+        "year": "2021"
+    },
+    {
+        "title": "Exploring Affordances of Surface Gestures on Textile User Interfaces",
+        "abstract": "This pictorial explores the design space for communicating surface gestures to users of textile interfaces by experimenting with the interfaces\u2019 physical design and affordances. First, we created a collection of functional and non-functional textile ...",
+        "citation_num": 12,
+        "download_num": 548,
+        "conference": "DIS '21",
+        "authors": [
+            "Sara Mlakar",
+            "Mira Alida Haberfellner",
+            "Hans-Christian Jetter",
+            "Michael Haller"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3461778.3462139",
+        "date": "June 2021",
+        "year": "2021"
+    },
+    {
+        "title": "Demonstrating a Modular Construction Toolkit for Interactive Textile Applications",
+        "abstract": "We present a toolkit for the DIY production of interactive textile prototypes and smart fashion. The toolkit is easily accessible and requires only an iron for implementation. The key to our approach is the use of flexible PCBs and textile conductor ...",
+        "citation_num": 7,
+        "download_num": 147,
+        "conference": "NordiCHI '20",
+        "authors": [
+            "Emil Woop",
+            "Esther Friederike Zahn",
+            "Rahel Flechtner",
+            "Gesche Joost"
+        ],
+        "contentType": "extended-abstract",
+        "doi": "https://doi.org/10.1145/3419249.3420075",
+        "date": "October 2020",
+        "year": "2020"
+    },
+    {
+        "title": "Stymphalian Birds - Exploring the Aesthetics of A Hybrid Textile",
+        "abstract": "Stymphalian Birds is an art installation, exploring the aesthetics and the societal impacts of a hybrid textile at the crossroads of electronics and haute couture. The exhibited textiles are hybrid in various ways. They combine traditional handcrafts ...",
+        "citation_num": 8,
+        "download_num": 166,
+        "conference": "DIS' 20 Companion",
+        "authors": [
+            "Audrey Briot",
+            "Cedric Honnet",
+            "Paul Strohmeier"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3393914.3395840",
+        "date": "July 2020",
+        "year": "2020"
+    },
+    {
+        "title": "LIGHT TISSUE: Development of cellulose-based optical textile sensors",
+        "abstract": "The development of smart textiles with interactive capabilities has introduced new ways to embed functional fibers, electrically active materials, and electrical components within textiles. Nevertheless, this ubiquitous integration will bring challenges ...",
+        "citation_num": 0,
+        "download_num": 557,
+        "conference": "TEI '23",
+        "authors": [
+            "Sof\u00eda Guridi",
+            "Emmi Pouta",
+            "Ari Hokkanen",
+            "Aayush Jaiswal"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3569009.3572798",
+        "date": "February 2023",
+        "year": "2023"
+    },
+    {
+        "title": "A Study Relating Computational Textile Textural Expression to Emotion",
+        "abstract": "Material expression has always been an important non-verbal, sensual method for designers to communicate with users of a designed object. A critical non-verbal mode of communicating is rooted in the expression of emotion which directly relates bodies to ...",
+        "citation_num": 3,
+        "download_num": 226,
+        "conference": "CHI EA '15",
+        "authors": [
+            "Felecia Davis"
+        ],
+        "contentType": "Work in Progress",
+        "doi": "https://doi.org/10.1145/2702613.2732739",
+        "date": "April 2015",
+        "year": "2015"
+    },
+    {
+        "title": "Hands-free gesture control with a capacitive textile neckband",
+        "abstract": "We present a novel sensing modality for hands-free gesture controlled user interfaces, based on active capacitive sensing. Four capacitive electrodes are integrated into a textile neckband, allowing continuous unobtrusive head movement monitoring. We ...",
+        "citation_num": 14,
+        "download_num": 566,
+        "conference": "ISWC '14",
+        "authors": [
+            "Marco Hirsch",
+            "Jingyuan Cheng",
+            "Attila Reiss",
+            "Mathias Sundholm",
+            "Paul Lukowicz",
+            "Oliver Amft"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2634317.2634328",
+        "date": "September 2014",
+        "year": "2014"
+    },
+    {
+        "title": "The Sound of Textile: An Interactive Tactile-Sonic Installation",
+        "abstract": "The Sound of Textile installation consists of seven interactive textile stripes enhanced with sensing capabilities. The expressive textile textures invite visitors to touch them. Every established connection between the visitor and the textile triggers ...",
+        "citation_num": 1,
+        "download_num": 494,
+        "conference": "ARTECH 2021",
+        "authors": [
+            "Sara Mlakar",
+            "Thomas Preindl",
+            "Andreas Pointner",
+            "Mira Alida Haberfellner",
+            "Rainer Danner",
+            "Roland Aigner",
+            "Michael Haller"
+        ],
+        "contentType": "short-paper",
+        "doi": "https://doi.org/10.1145/3483529.3483742",
+        "date": "February 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Electronic-textile system for the evaluation of wearable technology",
+        "abstract": "Wearable technology used in spaceflight has many applications. Electronic sensing, interaction, and computing designed into comfortable on-body form factors has the potential to augment human capabilities while improving safety, efficiency, autonomy, ...",
+        "citation_num": 8,
+        "download_num": 438,
+        "conference": "ISWC '14 Adjunct",
+        "authors": [
+            "Rebeccah Pailes-Friedman",
+            "Cody Miller",
+            "Kai Lin",
+            "Theo Ferlauto",
+            "Carson Stanch",
+            "Violet Tamayo",
+            "Eleni Skourtis-Cabrera"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2641248.2641355",
+        "date": "September 2014",
+        "year": "2014"
+    },
+    {
+        "title": "Human joint angle estimation with an e-textile sensor",
+        "abstract": "We describe the results of human joint angle estimation with an e-textile-based stretch sensor. Joint angle estimation is necessary to predict the details of human posture and implement posture instruction to prevent caregiver's injury in health and ...",
+        "citation_num": 9,
+        "download_num": 350,
+        "conference": "ISWC '14",
+        "authors": [
+            "Yu Enokibori",
+            "Kenji Mase"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/2634317.2634331",
+        "date": "September 2014",
+        "year": "2014"
+    },
+    {
+        "title": "Toward the development of customizable textile-integrated thermal actuators",
+        "abstract": "This study explores efficient methods for production of customizable heated textiles. An electrical heating system using the Liberator40\u00ae conductive fiber, stitched in a serpentine pattern on stretch knit fabrics, was employed. Parameters including ...",
+        "citation_num": 3,
+        "download_num": 402,
+        "conference": "UbiComp '17",
+        "authors": [
+            "Esther Foo",
+            "Nika R. Gagliardi",
+            "Nicholas Schleif",
+            "Lucy E. Dunne"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3123024.3123160",
+        "date": "September 2017",
+        "year": "2017"
+    },
+    {
+        "title": "Initial Investigations into Characterizing DIY E-Textile Stretch Sensors",
+        "abstract": "This paper evaluates three electronic textile (e-textile) stretch sensors commonly constructed for bespoke applications: two variations of fabric knit with a stainless steel and polyester yarn, and knit fabric coated with a conductive polymer. Two ...",
+        "citation_num": 5,
+        "download_num": 261,
+        "conference": "MOCO '17",
+        "authors": [
+            "Rebecca Stewart",
+            "Sophie Skach"
+        ],
+        "contentType": "short-paper",
+        "doi": "https://doi.org/10.1145/3077981.3078043",
+        "date": "June 2017",
+        "year": "2017"
+    },
+    {
+        "title": "A Layered Fabric 3D Printer for Soft Interactive Objects",
+        "abstract": "We present a new type of 3D printer that can form precise, but soft and deformable 3D objects from layers of off-the-shelf fabric. Our printer employs an approach where a sheet of fabric forms each layer of a 3D object. The printer cuts this sheet along ...",
+        "citation_num": 79,
+        "download_num": 1798,
+        "conference": "CHI '15",
+        "authors": [
+            "Huaishu Peng",
+            "Jennifer Mankoff",
+            "Scott E. Hudson",
+            "James McCann"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2702123.2702327",
+        "date": "April 2015",
+        "year": "2015"
+    },
+    {
+        "title": "Soft Speakers: Digital Embroidering of DIY Customizable Fabric Actuators",
+        "abstract": " We introduce Soft Speakers, a systematic approach for designing custom fabric actuators that can be used as audio speakers and vibro-haptic actuators. Digitally-embroidered with e-textiles, we implement Soft Speakers as tactile, malleable and aesthetic ...",
+        "citation_num": 21,
+        "download_num": 2422,
+        "conference": "TEI '21",
+        "authors": [
+            "Sara Nabil",
+            "Lee Jones",
+            "Audrey Girouard"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3430524.3440630",
+        "date": "February 2021",
+        "year": "2021"
+    },
+    {
+        "title": "TexonMask: Facial Expression Recognition Using Textile Electrodes on Commodity Facemasks",
+        "abstract": " This paper presents TexonMask, a facial expression recognition system using lightweight electrode-augmented commodity facemasks. With a matrix of textile electrodes carefully deployed on a commodity mask, our edge computing system recognizes the wearer\u2019...",
+        "citation_num": 0,
+        "download_num": 644,
+        "conference": "CHI '23",
+        "authors": [
+            "Zengrong Guo",
+            "Rong-Hao Liang"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3544548.3581295",
+        "date": "April 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Embroidered Resistive Pressure Sensors: A Novel Approach for Textile Interfaces",
+        "abstract": "We present a novel method for augmenting arbitrary fabrics with textile-based pressure sensors using an off-the-shelf embroidery machine. We apply resistive textiles and conductive yarns on top of a base fabric, to yield a flexible and versatile ...",
+        "citation_num": 46,
+        "download_num": 1413,
+        "conference": "CHI '20",
+        "authors": [
+            "Roland Aigner",
+            "Andreas Pointner",
+            "Thomas Preindl",
+            "Patrick Parzer",
+            "Michael Haller"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3313831.3376305",
+        "date": "April 2020",
+        "year": "2020"
+    },
+    {
+        "title": "SensorSnaps: Integrating Wireless Sensor Nodes into Fabric Snap Fasteners for Textile Interfaces",
+        "abstract": "Adding electronics to textiles can be time-consuming and requires technical expertise. We introduce SensorSnaps, low-power wireless sensor nodes that seamlessly integrate into caps of fabric snap fasteners. SensorSnaps provide a new technique to quickly ...",
+        "citation_num": 13,
+        "download_num": 1466,
+        "conference": "UIST '19",
+        "authors": [
+            "Artem Dementyev",
+            "Tom\u00e1s Vega G\u00e1lvez",
+            "Alex Olwal"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3332165.3347913",
+        "date": "October 2019",
+        "year": "2019"
+    },
+    {
+        "title": "Fabric Electrodes for Physiological Sensing in a VR HMD",
+        "abstract": " This paper explores the development and testing of fabric electrodes to collect a range of physiological measures. The aim is to integrate these sensors into a Virtual Reality (VR) headset to collect physiological and muscular motion data that will help ...",
+        "citation_num": 0,
+        "download_num": 37,
+        "conference": "VRST '23",
+        "authors": [
+            "Nicholas Strachan",
+            "Jyoti Kalyanji",
+            "Andrew Lowe",
+            "Amit Barde",
+            "Mark Billinghurst"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3611659.3616888",
+        "date": "October 2023",
+        "year": "2023"
+    },
+    {
+        "title": "EmTex: Prototyping Textile-Based Interfaces through An Embroidered Construction Kit",
+        "abstract": " As electronic textiles have become more advanced in sensing, actuating, and manufacturing, incorporating smartness into fabrics has become of special interest to ubiquitous computing and interaction researchers and designers. However, innovating smart ...",
+        "citation_num": 0,
+        "download_num": 375,
+        "conference": "UIST '23",
+        "authors": [
+            "Qi Wang",
+            "Yuan Zeng",
+            "Runhua Zhang",
+            "Nianding Ye",
+            "Linghao Zhu",
+            "Xiaohua Sun",
+            "Teng Han"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3586183.3606815",
+        "date": "October 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Crafting Stories: Smart and Electronic Textile Craftsmanship for Interactive Books",
+        "abstract": "\u2018Crafting Stories\u2019 investigates the potentials of smart and electronic textile craftsmanship in the context of interactive books. A handmade interactive eTextile book, copying a handmade interactive textile book my late grandmother made, is presented as ...",
+        "citation_num": 2,
+        "download_num": 439,
+        "conference": "TEI '21",
+        "authors": [
+            "Irene Posch"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3430524.3446076",
+        "date": "February 2021",
+        "year": "2021"
+    },
+    {
+        "title": "Bi-metallic stitched e-textile sensors for sensing salinized liquids",
+        "abstract": "Sensing in e-textiles has generated great interest in a wide range of applications, including wetness detection. A common application for wetness detection sensors is the detection of urine in absorbent products such as diapers. However, unlike water, ...",
+        "citation_num": 4,
+        "download_num": 206,
+        "conference": "ISWC '17",
+        "authors": [
+            "Esther W. Foo",
+            "Robert Mt Pettys-Baker",
+            "Shawn Sullivan",
+            "Lucy E. Dunne"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3123021.3123057",
+        "date": "September 2017",
+        "year": "2017"
+    },
+    {
+        "title": "Effects of the textile-sensor interface on stitched strain sensor performance",
+        "abstract": "The influence of the textile substrate on the performance of a textile-based strain sensor has not been well understood or characterized in many wearable sensor evaluations. The underlying textile has its own anisotropic mechanical behaviors due to its ...",
+        "citation_num": 5,
+        "download_num": 395,
+        "conference": "ISWC '19",
+        "authors": [
+            "Ellen Dupler",
+            "Lucy E. Dunne"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3341163.3347717",
+        "date": "September 2019",
+        "year": "2019"
+    },
+    {
+        "title": "A temerature-based touch-sensor for non-emissive textile displays",
+        "abstract": "Non-light-emissive textile displays have become a popular research area that allows subtle and ambient animations on our textiles. This work explores one such existing technology which uses thermochromic inks and peltier semiconductors to implement ...",
+        "citation_num": 2,
+        "download_num": 302,
+        "conference": "CHI EA '13",
+        "authors": [
+            "Roshan Lalintha Peiris",
+            "Ryohei Nakatsu"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/2468356.2468643",
+        "date": "April 2013",
+        "year": "2013"
+    },
+    {
+        "title": "StretchEBand: Enabling Fabric-based Interactions through Rapid Fabrication of Textile Stretch Sensors",
+        "abstract": "The increased interest in interactive soft materials, such as smart clothing and responsive furniture, means that there is a need for flexible and deformable electronics. In this paper, we focus on stitch-based elastic sensors, which have the benefit of ...",
+        "citation_num": 42,
+        "download_num": 867,
+        "conference": "CHI '17",
+        "authors": [
+            "Anita Vogl",
+            "Patrick Parzer",
+            "Teo Babic",
+            "Joanne Leong",
+            "Alex Olwal",
+            "Michael Haller"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3025453.3025938",
+        "date": "May 2017",
+        "year": "2017"
+    },
+    {
+        "title": "Challenges and opportunities of textile based smart sanitary napkin design",
+        "abstract": "Smart textiles are being used by multiple technologies for various health care applications. In my recent research, I have designed a textile-based smart sanitary napkin sensor. It helps in identifying multiple gynaecological diseases by regular ...",
+        "citation_num": 3,
+        "download_num": 294,
+        "conference": "UbiComp/ISWC '19 Adjunct",
+        "authors": [
+            "Manideepa Mukherjee"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3341162.3349572",
+        "date": "September 2019",
+        "year": "2019"
+    },
+    {
+        "title": "Fabric-based ECG Electorde Jet Printing Formation and Performance Test",
+        "abstract": "Given the complicated process and high cost in the fabric electrode preparation process, this paper uses a combination of droplet jet technology and chemical deposition technology to directly print the conductive layer on the surface of the fabric to ...",
+        "citation_num": 0,
+        "download_num": 35,
+        "conference": "ISAIMS '20",
+        "authors": [
+            "Yuan Xiao",
+            "Weibo Yun",
+            "Chengkun Zhang"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3429889.3429922",
+        "date": "December 2020",
+        "year": "2020"
+    },
+    {
+        "title": "Toward Accurate Sensing with Knitted Fabric: Applications and Technical Considerations",
+        "abstract": "Fabric sensors have been introduced to enable flexible touch-based interaction. We advance the technical capabilities of a scalable and low-profile knitted capacitive touch sensing system by introducing methods to improve its touch localization ...",
+        "citation_num": 4,
+        "download_num": 419,
+        "conference": "Proceedings of the ACM on Human-Computer Interaction (PACMHCI), Volume 4, Issue EICS",
+        "authors": [
+            "Richard Vallett",
+            "Denisa Qori McDonald",
+            "Genevieve Dion",
+            "Youngmoo Kim",
+            "Ali Shokoufandeh"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3394981",
+        "date": "June 2020",
+        "year": "2020"
+    },
+    {
+        "title": "Embr: A Creative Framework for Hand Embroidered Liquid Crystal Textile Displays",
+        "abstract": "Conductive thread is a common material in e-textile toolkits that allows practitioners to create connections between electronic components sewn on fabric. When powered, conductive threads are used as resistive heaters to activate thermochromic dyes or ...",
+        "citation_num": 5,
+        "download_num": 1044,
+        "conference": "CHI '22",
+        "authors": [
+            "Shreyosi Endow",
+            "Mohammad Abu Nasir Rakib",
+            "Anvay Srivastava",
+            "Sara Rastegarpouyani",
+            "Cesar Torres"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3491102.3502117",
+        "date": "April 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Effect of bonding and washing on electronic textile stretch sensor properties",
+        "abstract": "Knit e-textile sensors can be used to detect stretch or strain, and when integrated directly into wearable garments, they can be used to detect movement of the human body. However, before they can reliably be used in real-world applications, the garment ...",
+        "citation_num": 3,
+        "download_num": 228,
+        "conference": "UbiComp/ISWC '19 Adjunct",
+        "authors": [
+            "An Liang",
+            "Rebecca Stewart",
+            "Rachel Freire",
+            "Nick Bryan-Kinns"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/3341162.3343817",
+        "date": "September 2019",
+        "year": "2019"
+    },
+    {
+        "title": "What\u2019s That Shape? Investigating Eyes-Free Recognition of Textile Icons",
+        "abstract": " Textile surfaces, such as on sofas, cushions, and clothes, offer promising alternative locations to place controls for digital devices. Textiles are a natural, even abundant part of living spaces, and support unobtrusive input. While there is solid ...",
+        "citation_num": 1,
+        "download_num": 318,
+        "conference": "CHI '23",
+        "authors": [
+            "Ren\u00e9 Sch\u00e4fer",
+            "Oliver Nowak",
+            "Lovis Bero Suchmann",
+            "S\u00f6ren Schr\u00f6der",
+            "Jan Borchers"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3544548.3580920",
+        "date": "April 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Telextiles: End-to-end Remote Transmission of Fabric Tactile Sensation",
+        "abstract": "The tactile sensation of textiles is critical in determining the comfort of clothing. In remote scenarios such as online shopping, sensors need to distinguish different garments even with hand-held sensors, and current actuation devices can only present ...",
+        "citation_num": 0,
+        "download_num": 74,
+        "conference": "UIST '23 Adjunct",
+        "authors": [
+            "Takekazu Kitagishi",
+            "Yuichi Hiroi",
+            "Yuna Watanabe",
+            "Yuta Itoh",
+            "Jun Rekimoto"
+        ],
+        "contentType": "demonstration",
+        "doi": "https://doi.org/10.1145/3586182.3615770",
+        "date": "October 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Automatic Detection of Minimal Repeated Pattern in Printing Fabric Images",
+        "abstract": "Detection of minimal repeated pattern (MRP) is an indispensable ingredient of the color dividing and plate-making system in the IoT-based printing fabric industry. We present a minimal repeated pattern detection problem and then design an effective and ...",
+        "citation_num": 1,
+        "download_num": 109,
+        "conference": "SenSys '18",
+        "authors": [
+            "Jian Zhang",
+            "Heng Zhang",
+            "Yanlong Wang",
+            "Liling Bo",
+            "Jing Sun"
+        ],
+        "contentType": "short-paper",
+        "doi": "https://doi.org/10.1145/3274783.3275178",
+        "date": "November 2018",
+        "year": "2018"
+    },
+    {
+        "title": "Precision control of tensile properties in fabric for computational fabrication",
+        "abstract": "This paper presents an exploration of computer-controlled embroidery design and stitching with the goal of making purposeful, precision changes to material properties of a base elastic textile. Two techniques are proposed for adding stitches through ...",
+        "citation_num": 4,
+        "download_num": 330,
+        "conference": "SCF '18",
+        "authors": [
+            "Ella Moore",
+            "Michael Porter",
+            "Ioannis Karamouzas",
+            "Victor Zordan"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3213512.3213514",
+        "date": "June 2018",
+        "year": "2018"
+    },
+    {
+        "title": "Fold, Stand and Drape: Unweaving Physical vs Digital Textile Design Considerations",
+        "abstract": "Fashion design has rapidly become a digital process where textiles are simulated as soft, conformable materials on a digital body. The embodied experience and physical interaction with the textile have been replaced by screen-based media, resulting in a ...",
+        "citation_num": 0,
+        "download_num": 36,
+        "conference": "TEI '24",
+        "authors": [
+            "Alexandra A.M. Kuijpers",
+            "Bruna Goveia Da Rocha",
+            "Maarten R. Van Bommel",
+            "Troy Nachtigall"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3623509.3633351",
+        "date": "February 2024",
+        "year": "2024"
+    },
+    {
+        "title": "Exploring a Textile-based Shadow Lamp Display Incorporating Shape Memory Alloys",
+        "abstract": " This paper explores a novel concept of textile-based shadow displays that incorporates shape memory alloys (SMA) on fabrics to cast dynamic shadows as an ambient information display. To explore this, we implemented a lamp prototype, capable of ...",
+        "citation_num": 0,
+        "download_num": 177,
+        "conference": "MUM '21",
+        "authors": [
+            "Caglar Genc",
+            "Paula Roinesalo",
+            "Ozge Raudanjoki",
+            "Jonna Hakkila"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3490632.3490667",
+        "date": "February 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Telextiles: End-to-end Remote Transmission of Fabric Tactile Sensation",
+        "abstract": "The tactile sensation of textiles is critical in determining the comfort of clothing. For remote use, such as online shopping, users cannot physically touch the textile of clothes, making it difficult to evaluate its tactile sensation. Tactile sensing ...",
+        "citation_num": 0,
+        "download_num": 183,
+        "conference": "UIST '23",
+        "authors": [
+            "Takekazu Kitagishi",
+            "Yuichi Hiroi",
+            "Yuna Watanabe",
+            "Yuta Itoh",
+            "Jun Rekimoto"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3586183.3606764",
+        "date": "October 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Fabric-Silicone Composite Haptic Muscles for Sensitive Wearable Force Feedback",
+        "abstract": "Robot teleoperation is an emerging field of study with wide applications in exploration, manufacturing, and healthcare, because it allows users to perform complex remote tasks while remaining distanced and safe. Haptic feedback offers an immersive user ...",
+        "citation_num": 0,
+        "download_num": 78,
+        "conference": "PETRA '23",
+        "authors": [
+            "Raagini Rameshwar",
+            "Erik Howard Skorina",
+            "Cagdas D Onal"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3594806.3594853",
+        "date": "August 2023",
+        "year": "2023"
+    },
+    {
+        "title": "eGlove: Designing Interactive Fabric Sensor for Enhancing Contact-Based Interactions",
+        "abstract": " We present eGlove, a wearable and low-cost fabric sensor for recognizing a rich context of objects by touching them, including daily necessities, fruits, plants, as well as different body parts. Our sensing approach utilizes Swept frequency Capacitive ...",
+        "citation_num": 0,
+        "download_num": 340,
+        "conference": "CHI EA '21",
+        "authors": [
+            "Hebo Gong",
+            "Zhitong Cui",
+            "Yanan Wang",
+            "Chengyi Shen",
+            "Deyin Zhang",
+            "Shijian Luo"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/3411763.3451824",
+        "date": "May 2021",
+        "year": "2021"
+    },
+    {
+        "title": "Rapid Iron-On User Interfaces: Hands-on Fabrication of Interactive Textile Prototypes",
+        "abstract": "Rapid prototyping of interactive textiles is still challenging, since manual skills, several processing steps, and expert knowledge are involved. We present Rapid Iron-On User Interfaces, a novel fabrication approach for empowering designers and makers ...",
+        "citation_num": 29,
+        "download_num": 1708,
+        "conference": "CHI '20",
+        "authors": [
+            "Konstantin Klamka",
+            "Raimund Dachselt",
+            "J\u00fcrgen Steimle"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3313831.3376220",
+        "date": "April 2020",
+        "year": "2020"
+    },
+    {
+        "title": "Integrating Interactive Technology Concepts With Material Expertise in Textile Design Disciplines",
+        "abstract": " Textile and fashion designers are increasingly interested in integrating interactive technologies into their practice. However, traditional design education typically lacks support for them to develop technical digital and electronics skills alongside ...",
+        "citation_num": 1,
+        "download_num": 309,
+        "conference": "DIS '22",
+        "authors": [
+            "Mei Zhang",
+            "Rebecca Stewart",
+            "Nick Bryan-Kinns"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3532106.3533535",
+        "date": "June 2022",
+        "year": "2022"
+    },
+    {
+        "title": "E-textile pressure sensor based on conductive fiber and its structure",
+        "abstract": "This paper proposes a novel e-textile-based pressure sensor. Textile is a common material in our life, used in such items as sheets, seats, and clothing. If these items are equipped with sensor functions, they can invisibly assist humans without ...",
+        "citation_num": 23,
+        "download_num": 769,
+        "conference": "UbiComp '13 Adjunct",
+        "authors": [
+            "Yu Enokibori",
+            "Akihisa Suzuki",
+            "Hirotaka Mizuno",
+            "Yuuki Shimakami",
+            "Kenji Mase"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/2494091.2494158",
+        "date": "September 2013",
+        "year": "2013"
+    },
+    {
+        "title": "Justice-oriented Participatory Electronic Textile Making: Fostering shared spaces of knowledge dialogues through the process of making, un-making, and re-making justice-oriented participatory praxis",
+        "abstract": "Participatory Design and Participatory Textiles Practices have only recently begun to address their shared roots in notions of solidarity and community-building, as well as movements towards more just worlds. With this workshop, we hope to address, ...",
+        "citation_num": 3,
+        "download_num": 97,
+        "conference": "PDC '22",
+        "authors": [
+            "Angelika Strohmayer",
+            "Laura Cort\u00e9s-Rico",
+            "Tania P\u00e9rez-Bustos",
+            "Afroditi Psarra",
+            "Daniela Rosner",
+            "\u00d6zge Subasi",
+            "Irene Posch",
+            "Sara Nabil",
+            "Jihan Sherman"
+        ],
+        "contentType": "tutorial",
+        "doi": "https://doi.org/10.1145/3537797.3537880",
+        "date": "August 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Design Investigation of Embroidered Interactive Elements on Non-Wearable Textile Interfaces",
+        "abstract": "As smart textiles are becoming more present in our lives, investigating and designing textile interfaces has started getting more and more attention. Still, very little research has been done on how to design interactive elements for non-wearable textile ...",
+        "citation_num": 20,
+        "download_num": 918,
+        "conference": "CHI '20",
+        "authors": [
+            "Sara Mlakar",
+            "Michael Haller"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3313831.3376692",
+        "date": "April 2020",
+        "year": "2020"
+    },
+    {
+        "title": "GesFabri: Exploring Affordances and Experience of Textile Interfaces for Gesture-based Interaction",
+        "abstract": "Textile interfaces are of interest to ubiquitous computing as they are easy to carry and manipulate. However, interesting questions remain about what type of natural gestures people make when interacting with textile interfaces and their emotional ...",
+        "citation_num": 4,
+        "download_num": 431,
+        "conference": "Proceedings of the ACM on Human-Computer Interaction (PACMHCI), Volume 6, Issue EICS",
+        "authors": [
+            "Mengqi Jiang",
+            "Vijayakumar Nanjappan",
+            "Hai-Ning Liang",
+            "Martijn ten Bh\u00f6mer"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3534522",
+        "date": "June 2022",
+        "year": "2022"
+    },
+    {
+        "title": "MoCa'Collection: Normalizing Dynamic Textile Geometry with Capacitive Sensing in Design Centric Wearables",
+        "abstract": "In this work, we promote capacitive sensing as a versatile smart textile modality through a collection of functional wearable designs. Considering the large variety of possible garment design concepts, we outline an approach to implement smart sensing ...",
+        "citation_num": 0,
+        "download_num": 59,
+        "conference": "UbiComp/ISWC '23 Adjunct",
+        "authors": [
+            "Daniel Gei\u00dfler",
+            "Esther Friederike Zahn",
+            "Hymalai Bello",
+            "Lala Shakti Swarup Ray",
+            "Emil Woop",
+            "Bo Zhou",
+            "Paul Lukowicz",
+            "Gesche Joost"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3594739.3610779",
+        "date": "October 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Self-deStaining Textiles: Designing Interactive Systems with Fabric, Stains and Light",
+        "abstract": " This work introduces \u201cdestaining\u201d as an interactive component for the HCI community. While staining happens unintentionally (e.g., spilling coffee), destaining can be used as an intentional design tool that selectively degrades stains on textiles. We ...",
+        "citation_num": 20,
+        "download_num": 1422,
+        "conference": "CHI '21",
+        "authors": [
+            "Fiona Bell",
+            "Alice Hong",
+            "Andreea Danielescu",
+            "Aditi Maheshwari",
+            "Ben Greenspan",
+            "Hiroshi Ishii",
+            "Laura Devendorf",
+            "Mirela Alistar"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3411764.3445155",
+        "date": "May 2021",
+        "year": "2021"
+    },
+    {
+        "title": "Tactile Narratives: Augmenting Body Maps through Textured Fabric in Soma Design",
+        "abstract": "In Human-Computer Interaction, body maps are a standard tool to understand an individual's bodily phenomenon. Body maps often use abstract drawings and text annotations on an outline of a body. However, little research has explored alternate ways we can ...",
+        "citation_num": 0,
+        "download_num": 31,
+        "conference": "TEI '24",
+        "authors": [
+            "Karen Anne Cochrane",
+            "Maxim-Emanuelle Dubois",
+            "Audrey Girouard"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3623509.3633399",
+        "date": "February 2024",
+        "year": "2024"
+    },
+    {
+        "title": "The Interactive Carpet - Smart Textile Interface for Children on Autism Spectrum Disorder",
+        "abstract": "This paper discusses the socializing potential of the smart textile based interface and presents the design and future study method of the Interactive Carpet prototype, designed in cooperation with Autism Spectrum Disorder (ASD) specialists. The future ...",
+        "citation_num": 6,
+        "download_num": 529,
+        "conference": "TEI '18",
+        "authors": [
+            "Yulia Zhiglova"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3173225.3173341",
+        "date": "March 2018",
+        "year": "2018"
+    },
+    {
+        "title": "Skinergy: Machine-Embroidered Silicone-Textile Composites as On-Skin Self-Powered Input Sensors",
+        "abstract": " We propose Skinergy for self-powered on-skin input sensing, a step towards prolonged on-skin device usages. In contrast to prior on-skin gesture interaction sensors, Skinergy\u2019s sensor operation does not require external power. Enabled by the ...",
+        "citation_num": 0,
+        "download_num": 314,
+        "conference": "UIST '23",
+        "authors": [
+            "Tianhong Catherine Yu",
+            "Nancy Wang",
+            "Sarah Ellenbogen",
+            "Cindy Hsin-Liu Kao"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3586183.3606729",
+        "date": "October 2023",
+        "year": "2023"
+    },
+    {
+        "title": "LayTex: A Design Tool for Generating Customized Textile Sensor Layouts in Wearable Computing",
+        "abstract": "Smart textile sensors have attracted increasing interest in the domain of wearable computing for human motion monitoring. Previous studies have shown that textile sensor layout has a major impact on the effectiveness and performance of wearable ...",
+        "citation_num": 0,
+        "download_num": 123,
+        "conference": "UbiComp/ISWC '23 Adjunct",
+        "authors": [
+            "Yueyao Zhang",
+            "Nianchong Qu",
+            "Runhua Zhang",
+            "Ye Tao",
+            "Guanyun Wang",
+            "Qi Wang"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/3594739.3610692",
+        "date": "October 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Speaking from Experience: Co-designing E-textile Projects with Older Adult Fiber Crafters",
+        "abstract": " Researchers support race, gender, and age diverse groups of people to create with maker electronics. These groups include older adults, who are often overlooked as not interested or capable of learning new technologies due to ageist stereotypes. One ...",
+        "citation_num": 0,
+        "download_num": 306,
+        "conference": "TEI '23",
+        "authors": [
+            "Ben Jelen",
+            "Amanda Lazar",
+            "Christina Harrington",
+            "Alisha Pradhan",
+            "Katie A. Siek"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3569009.3572736",
+        "date": "February 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Pull It Together: Textile Patina as an Interface for Externalizing Invisible Tension",
+        "abstract": " Patina is seldom used as an interface, but offers rich metaphors for slow technology and unmaking. This work explores how everyday objects\u2019 wear and tear might serve as an interface by leveraging patina\u2019s ability to semiotically communicate objects\u2019 ...",
+        "citation_num": 0,
+        "download_num": 180,
+        "conference": "DIS '23 Companion",
+        "authors": [
+            "Jessica R Mindel",
+            "Miles Baird",
+            "Allison Prisloe",
+            "Feifei Shen",
+            "Cherry Wu",
+            "Yang Yi",
+            "Hiroshi Ishii"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3563703.3596638",
+        "date": "July 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Fabric Pressure Sensors for Fine-Grained Interaction Detection in Plush Toys",
+        "abstract": "Recent advances in fabric-based sensors have made it possible to densely instrument plush toys without altering their aesthetic or tactile appeal, unlike traditional sensors whose rigid components can negatively impact the interactive experience. This ...",
+        "citation_num": 0,
+        "download_num": 22,
+        "conference": "GetMobile",
+        "authors": [
+            "Ali Kiaghadi",
+            "Jin Huang",
+            "Seyedeh Zohreh Homayounfar",
+            "Trisha Andrew",
+            "Deepak Ganesan"
+        ],
+        "contentType": "article",
+        "doi": "https://doi.org/10.1145/3640087.3640094",
+        "date": "January 2024",
+        "year": "2024"
+    },
+    {
+        "title": "Nanostructured gas sensors integrated into fabric for wearable breath monitoring system",
+        "abstract": "This paper presents a technology to design and fabricate nanostructured gas sensors in fabric substrates. Nanostructured gas sensors were fabricated by constructing ZnO nanorods on fabrics including polyester, cotton and polyimide for continuous ...",
+        "citation_num": 1,
+        "download_num": 337,
+        "conference": "ISWC '13",
+        "authors": [
+            "Hyejin Park",
+            "Hosang Ahn",
+            "Dong-Joo Kim",
+            "Helen Koo"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/2493988.2494337",
+        "date": "September 2013",
+        "year": "2013"
+    },
+    {
+        "title": "TEX(alive): A TOOLKIT TO EXPLORE TEMPORAL EXPRESSIONS IN SHAPE-CHANGING TEXTILE INTERFACES",
+        "abstract": "Shape-changing textile interfaces have the potential to create unique functions, expressions, and interactions in everyday artifacts. However, the technical expertise required to fabricate and interact with these interfaces limits designers from rapidly ...",
+        "citation_num": 9,
+        "download_num": 929,
+        "conference": "DIS '22",
+        "authors": [
+            "Jose Francisco Martinez Castro",
+            "Alice Buso",
+            "Jun Wu",
+            "Elvin Karana"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3532106.3533515",
+        "date": "June 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Performance Comparison of E-Textile Electrode Properties in a Capacitive Proximity Sensing Setting",
+        "abstract": " New sensing capabilities are rendered possible by using materials with new capabilities. Such materials as e-textiles are especially well suited to be integrated into the sensing technology embedding materials. Thus, e-textiles are predetermined to be ...",
+        "citation_num": 1,
+        "download_num": 263,
+        "conference": "PETRA '22",
+        "authors": [
+            "Silvia Faquiri",
+            "Arjan Kuijper"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3529190.3529215",
+        "date": "July 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Research on Innovative Design of Smart Textile Fabrics Based on Environmental Response Characteristics",
+        "abstract": "This article integrates design and digital displacement technology with new materials, and redesigns to explore the design, development, and application of new intelligent fabrics. The fabric developed in this article will undergo self-deformation in a ...",
+        "citation_num": 0,
+        "download_num": 57,
+        "conference": "AIAM2021",
+        "authors": [
+            "Zhe Li",
+            "Huan Tian"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3495018.3495145",
+        "date": "March 2022",
+        "year": "2022"
+    },
+    {
+        "title": "A comparative feasibility analysis for sensing swelling with textile-based soft strain sensors",
+        "abstract": "Sensing edema or swelling in the body is a parameter of interest for many clinical and cosmetic applications of wearable technology. Edema creates heightened sensitivity to pressure points, making soft textile-based sensors particularly attractive. ...",
+        "citation_num": 8,
+        "download_num": 347,
+        "conference": "ISWC '19",
+        "authors": [
+            "Alireza Golgouneh",
+            "Md. Tahmidul Islam Molla",
+            "Lucy E. Dunne"
+        ],
+        "contentType": "short-paper",
+        "doi": "https://doi.org/10.1145/3341163.3347739",
+        "date": "September 2019",
+        "year": "2019"
+    },
+    {
+        "title": "Demonstrating Rapid Iron-On User Interfaces: Hands-on Fabrication of Interactive Textile Prototypes",
+        "abstract": "Rapid prototyping of interactive textiles is still challenging, since manual skills, several processing steps, and expert knowledge are involved. We demonstrate Rapid Iron-On User Interfaces, a novel fabrication approach for empowering designers and ...",
+        "citation_num": 0,
+        "download_num": 176,
+        "conference": "CHI EA '20",
+        "authors": [
+            "Konstantin Klamka",
+            "Raimund Dachselt",
+            "J\u00fcrgen Steimle"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3334480.3383139",
+        "date": "April 2020",
+        "year": "2020"
+    },
+    {
+        "title": "Fabric Appearance Control System for Example-Based Interactive Texture and Color Design",
+        "abstract": "Texture and color are important factors of fabric appearance. A system that could intuitively manipulate and design fabric texture and color would be a very powerful tool. This article presents an interactive fabric appearance design system that ...",
+        "citation_num": 2,
+        "download_num": 244,
+        "conference": "ACM Transactions on Applied Perception (TAP), Volume 14, Issue 3",
+        "authors": [
+            "Takafumi Katsunuma",
+            "Keita Hirai",
+            "Takahiko Horiuchi"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3054953",
+        "date": "March 2017",
+        "year": "2017"
+    },
+    {
+        "title": "Knitted RESi: A Highly Flexible, Force-Sensitive Knitted Textile Based on Resistive Yarns",
+        "abstract": "We demonstrate a force sensing knitted textile, based on a piezo-resistive yarn. The resulting elastic, stretchable, and robust textile exhibits sensors based on the widespread Force Sensitive Resistor (FSR) principle. As a proof-of-concept, we ...",
+        "citation_num": 12,
+        "download_num": 295,
+        "conference": "SIGGRAPH '20",
+        "authors": [
+            "Andreas Pointner",
+            "Thomas Preindl",
+            "Sara Mlakar",
+            "Roland Aigner",
+            "Michael Haller"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3388534.3407292",
+        "date": "August 2020",
+        "year": "2020"
+    },
+    {
+        "title": "A ball-grid-array-like electronics-to-textile pocket connector for wearable electronics",
+        "abstract": "In this paper we introduce and characterize a new type of connector between smart textile and electronic devices. The connector is based on a ball grid array structure which is pressed against conductive textile pads in a stretchable pocket. The ...",
+        "citation_num": 11,
+        "download_num": 386,
+        "conference": "ISWC '15",
+        "authors": [
+            "Andreas Mehmann",
+            "Matija Varga",
+            "Karl G\u00f6nner",
+            "Gerhard Tr\u00f6ster"
+        ],
+        "contentType": "short-paper",
+        "doi": "https://doi.org/10.1145/2802083.2802093",
+        "date": "September 2015",
+        "year": "2015"
+    },
+    {
+        "title": "Conformal, Seamless, Sustainable: Multimorphic Textile-forms as a Material-Driven Design Approach for HCI",
+        "abstract": " Technology embeddedness in HCI textiles has great potential for enabling novel interactions and enriched experiences, but unless carefully designed, could inadvertently worsen HCI\u2019s sustainability problem. In an attempt to bridge sustainable debates ...",
+        "citation_num": 1,
+        "download_num": 1188,
+        "conference": "CHI '23",
+        "authors": [
+            "Holly McQuillan",
+            "Elvin Karana"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3544548.3581156",
+        "date": "April 2023",
+        "year": "2023"
+    },
+    {
+        "title": "MoCapaci: Posture and gesture detection in loose garments using textile cables as capacitive antennas",
+        "abstract": " We present a wearable system to detect body postures and gestures that does not require sensors to be firmly fixed to the body or integrated into a tight-fitting garment. The sensing system can be used in a loose piece of clothing such as a coat/...",
+        "citation_num": 7,
+        "download_num": 743,
+        "conference": "ISWC '21",
+        "authors": [
+            "Hymalai Bello",
+            "Bo Zhou",
+            "Sungho Suh",
+            "Paul Lukowicz"
+        ],
+        "contentType": "short-paper",
+        "doi": "https://doi.org/10.1145/3460421.3480418",
+        "date": "September 2021",
+        "year": "2021"
+    },
+    {
+        "title": "Project Tasca: Enabling Touch and Contextual Interactions with a Pocket-based Textile Sensor",
+        "abstract": "We present Project Tasca, a pocket-based textile sensor that detects user input and recognizes everyday objects that a user carries in the pockets of a pair of pants (e.g., keys, coins, electronic devices, or plastic items). By creating a new fabric-...",
+        "citation_num": 13,
+        "download_num": 1275,
+        "conference": "CHI '21",
+        "authors": [
+            "Te-Yen Wu",
+            "Zheer Xu",
+            "Xing-Dong Yang",
+            "Steve Hodges",
+            "Teddy Seyed"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3411764.3445712",
+        "date": "May 2021",
+        "year": "2021"
+    },
+    {
+        "title": "Project Mihr: Enabling Gestural Interactions on a Keyboard using a Graphene-based Fabric",
+        "abstract": " The physical keyboard has long been the de facto input mechanism for computers, despite advances in other input forms and modalities. Even with these advances, the augmentations of physical keyboards have still been limited to keystroke-based entry. We ...",
+        "citation_num": 2,
+        "download_num": 152,
+        "conference": "CHI EA '23",
+        "authors": [
+            "Yiyue Luo",
+            "Evelina Barhudarian",
+            "Teddy Seyed"
+        ],
+        "contentType": "Work in Progress",
+        "doi": "https://doi.org/10.1145/3544549.3585873",
+        "date": "April 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Tactile Stories: Interactive E-textile Wall-hangings created by blind and visually impaired makers",
+        "abstract": "We present Tactile Stories - a collection of interactive wall-hangings that were created by participants who are visually impaired. Each art piece conveys a story or association personal to its maker, created by combining e-textile circuits and switches,...",
+        "citation_num": 2,
+        "download_num": 132,
+        "conference": "NordiCHI '20",
+        "authors": [
+            "Emilie Giles",
+            "Janet van der Linden",
+            "Marian Petre"
+        ],
+        "contentType": "extended-abstract",
+        "doi": "https://doi.org/10.1145/3419249.3421233",
+        "date": "October 2020",
+        "year": "2020"
+    },
+    {
+        "title": "Implementing dynamic information flow tracking on microprocessors with integrated FPGA fabric (abstract only)",
+        "abstract": "Today, incorporating a new hardware feature into a modern microprocessor is a highly time consuming and expensive process due to long design cycles and high costs of design and verification. To address this challenge, this paper proposes a hybrid ...",
+        "citation_num": 0,
+        "download_num": 0,
+        "conference": "FPGA '10",
+        "authors": [
+            "Skyler Schneider",
+            "Daniel Y. Deng",
+            "Daniel Lo",
+            "Greg Malysa",
+            "G. Edward Suh"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/1723112.1723168",
+        "date": "February 2010",
+        "year": "2010"
+    },
+    {
+        "title": "Conformal, Seamless, Sustainable: Multimorphic Textile-forms as a Material-Driven Design Approach for HCI",
+        "abstract": " Technology embeddedness in HCI textiles has great potential for enabling novel interactions and enriched experiences, but unless carefully designed, could inadvertently worsen HCI\u2019s sustainability problem. In an attempt to bridge sustainable debates ...",
+        "citation_num": 1,
+        "download_num": 1188,
+        "conference": "CHI '23",
+        "authors": [
+            "Holly McQuillan",
+            "Elvin Karana"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3544548.3581156",
+        "date": "April 2023",
+        "year": "2023"
+    },
+    {
+        "title": "MoCapaci: Posture and gesture detection in loose garments using textile cables as capacitive antennas",
+        "abstract": " We present a wearable system to detect body postures and gestures that does not require sensors to be firmly fixed to the body or integrated into a tight-fitting garment. The sensing system can be used in a loose piece of clothing such as a coat/...",
+        "citation_num": 7,
+        "download_num": 743,
+        "conference": "ISWC '21",
+        "authors": [
+            "Hymalai Bello",
+            "Bo Zhou",
+            "Sungho Suh",
+            "Paul Lukowicz"
+        ],
+        "contentType": "short-paper",
+        "doi": "https://doi.org/10.1145/3460421.3480418",
+        "date": "September 2021",
+        "year": "2021"
+    },
+    {
+        "title": "Tapis Magique: Machine-knitted Electronic Textile Carpet for Interactive Choreomusical Performance and Immersive Environments",
+        "abstract": "Tapis Magique is a pressure-sensitive, knitted large-scale electronic textile carpet that generates three-dimensional sensor data based on body location, postures, and gestures and drives an immersive sonic environment in real-time. Inspired by ...",
+        "citation_num": 1,
+        "download_num": 903,
+        "conference": "C&C '22",
+        "authors": [
+            "Irmandy Wicaksono",
+            "Don Derek Haddad",
+            "Joseph Paradiso"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3527927.3531451",
+        "date": "June 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Learning with Stitch Samplers: Exploring Stitch Samplers as Contextual Instructions for E-textile Tutorials",
+        "abstract": " The field of textile fabrication has a strong pattern-making culture that enables individuals to reproduce items at home. Electronic textile (e-textile) researchers within HCI are increasingly exploring how computing can leverage these textile pattern-...",
+        "citation_num": 6,
+        "download_num": 625,
+        "conference": "DIS '22",
+        "authors": [
+            "Lee Jones",
+            "Audrey Girouard"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3532106.3533488",
+        "date": "June 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Scaling E-Textile Production: Understanding the Challenges of Soft Wearable Production for Individual Creators",
+        "abstract": "Electronic textiles (e-textiles) incorporate functional capabilities into fabric forms, providing direct body contact not afforded by traditional hardware. While widely researched by the Wearable Computing community, e-textiles have yet to reach broad ...",
+        "citation_num": 2,
+        "download_num": 308,
+        "conference": "ISWC '22",
+        "authors": [
+            "Jingwen Zhu",
+            "Hsin-Liu (Cindy) Kao"
+        ],
+        "contentType": "short-paper",
+        "doi": "https://doi.org/10.1145/3544794.3558475",
+        "date": "December 2022",
+        "year": "2022"
+    },
+    {
+        "title": "E-Textile Microinteractions: Augmenting Twist with Flick, Slide and Grasp Gestures for Soft Electronics",
+        "abstract": "E-textile microinteractions advance cord-based interfaces by enabling the simultaneous use of precise continuous control and casual discrete gestures. We leverage the recently introduced I/O Braid sensing architecture to enable a series of user studies ...",
+        "citation_num": 20,
+        "download_num": 2668,
+        "conference": "CHI '20",
+        "authors": [
+            "Alex Olwal",
+            "Thad Starner",
+            "Gowa Mainini"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3313831.3376236",
+        "date": "April 2020",
+        "year": "2020"
+    },
+    {
+        "title": "Activity recognition and nutrition monitoring in every day situations with a textile capacitive neckband",
+        "abstract": "We build on previous work [5] that demonstrated, in simple isolated experiments, how head and neck related events (e.g. swallowing, head motion) can be detected using an unobtrusive, textile capacitive sensor integrated in a collar like neckband. We ...",
+        "citation_num": 38,
+        "download_num": 485,
+        "conference": "UbiComp '13 Adjunct",
+        "authors": [
+            "Jingyuan Cheng",
+            "Bo Zhou",
+            "Kai Kunze",
+            "Carl Christian Rheinl\u00e4nder",
+            "Sebastian Wille",
+            "Norbert Wehn",
+            "Jens Weppner",
+            "Paul Lukowicz"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/2494091.2494143",
+        "date": "September 2013",
+        "year": "2013"
+    },
+    {
+        "title": "An electronic-textile wearable communication board for individuals with autism engaged in horse therapy",
+        "abstract": "Horse therapy is becoming an increasingly popular physical therapy activity for individuals with social, communication, or cognitive impairments as a means to help enhance social and interpersonal skills [1]. However, horse therapy and other very ...",
+        "citation_num": 4,
+        "download_num": 312,
+        "conference": "ASSETS '12",
+        "authors": [
+            "Halley P. Profita"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/2384916.2384968",
+        "date": "October 2012",
+        "year": "2012"
+    },
+    {
+        "title": "Seamlessly Embedding Buttons into the Leather Fabric of a Car Interior, an Exploration",
+        "abstract": "In contemporary automotive contexts, the growing substitution of physical buttons with digital screens has resulted in a diminished level of sensory feedback associated with physical forms and materials, and rich interaction. In response, this ...",
+        "citation_num": 0,
+        "download_num": 53,
+        "conference": "AutomotiveUI '23 Adjunct",
+        "authors": [
+            "Haoyu Dong",
+            "Brent Temmink",
+            "Simone De Waart",
+            "Miguel Bruns"
+        ],
+        "contentType": "demonstration",
+        "doi": "https://doi.org/10.1145/3581961.3609842",
+        "date": "September 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Hardware Development for Jogger-Specific Vital Signs Monitoring with Alarm Mechanism using E-Textile Technology",
+        "abstract": "This hardware development is designed for a monitoring system for joggers, specifically a wearable, with the use of e-textile technology that checks the basic vital signs of the body. Main vital signs that are being measured by this system are body ...",
+        "citation_num": 0,
+        "download_num": 2,
+        "conference": "ICBET '23",
+        "authors": [
+            "Meo Vincent Caya",
+            "Noel Linsangan",
+            "Melissa Martin",
+            "Karl Elmerson Dayap",
+            "Kevin Patirck Dilidili",
+            "Mark Lester Gambol"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3620679.3620695",
+        "date": "December 2023",
+        "year": "2023"
+    },
+    {
+        "title": "An Interactive Garment for Orchestra Conducting: IoT-enabled Textile & Machine Learning to Direct Musical Performance",
+        "abstract": " We present an overview and initial results from a project bringing together orchestra conducting, e-textile material studies, costume tailoring, low power computing and machine learning (ML). We describe a wearable interactive system comprising of ...",
+        "citation_num": 4,
+        "download_num": 193,
+        "conference": "TEI '21",
+        "authors": [
+            "Berit Greinke",
+            "Giorgia Petri",
+            "Pauline Vierne",
+            "Paul Biessmann",
+            "Alexandra B\u00f6rner",
+            "Kaspar Schleiser",
+            "Emmanuel Baccelli",
+            "Claas Krause",
+            "Christopher Verworner",
+            "Felix Biessmann"
+        ],
+        "contentType": "Work in Progress",
+        "doi": "https://doi.org/10.1145/3430524.3442451",
+        "date": "February 2021",
+        "year": "2021"
+    },
+    {
+        "title": "FabTouch: A Tool to Enable Communication and Design of Tactile and Affective Fabric Experiences",
+        "abstract": " The tactile experience of fabric is not only a sensory experience but also an affective one. Our choice of fabric products, like clothing, is often based on how they feel. Effectively communicating such experiences is crucial for designing tactile ...",
+        "citation_num": 0,
+        "download_num": 940,
+        "conference": "CHI '23",
+        "authors": [
+            "Jing Xue",
+            "Bruna Beatriz Petreca",
+            "Christopher Dawes",
+            "Marianna Obrist"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3544548.3581288",
+        "date": "April 2023",
+        "year": "2023"
+    },
+    {
+        "title": "E-textile Sleeve with Graphene Strain Sensors for Arm Gesture Classification of Mid-Air Interactions",
+        "abstract": "Arm gestures play a pivotal role in facilitating natural mid-air interactions. While computer vision techniques aim to detect these gestures, they encounter obstacles like obfuscation and lighting conditions. Alternatively, wearable devices have ...",
+        "citation_num": 0,
+        "download_num": 17,
+        "conference": "TEI '24",
+        "authors": [
+            "Yangfangzheng Li",
+            "Yi Zhou",
+            "Cheng Shen",
+            "Rebecca Stewart"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3623509.3633374",
+        "date": "February 2024",
+        "year": "2024"
+    },
+    {
+        "title": "Design of a smart textile mat to study pressure distribution on multiple foam material configurations",
+        "abstract": "In this paper, we present a design of a smart textile pressure mat to study the pressure distribution with multiple foam material configurations for neonatal monitoring at Neonatal Intensive Care Units (NICU). A smart textile mat with 64 pressure ...",
+        "citation_num": 11,
+        "download_num": 408,
+        "conference": "ISABEL '11",
+        "authors": [
+            "Rik van Donselaar",
+            "Wei Chen"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2093698.2093827",
+        "date": "October 2011",
+        "year": "2011"
+    },
+    {
+        "title": "Recognition Algorithm for Sleep Postures using a Smart Fabric Pad with Multiple Pressure Sensors",
+        "abstract": "The existing studies suggest the following methods for measuring sleep postures: installing cameras and record the sleep postures then analyze the postures or measuring the change of the posture by attaching the sensor to the user's body. However, the ...",
+        "citation_num": 5,
+        "download_num": 170,
+        "conference": "ICCAE 2019",
+        "authors": [
+            "Sang Hun Lee",
+            "Jung-uk Ahn",
+            "Byung Mun Lee"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3313991.3314000",
+        "date": "February 2019",
+        "year": "2019"
+    },
+    {
+        "title": "A generic sensor fabric for multi-modal swallowing sensing in regular upper-body shirts",
+        "abstract": "We investigate a generic fabric material as basis for resistive pressure and bio-impedance sensors and apply the fabric in a shirt collar for swallowing spotting. A pilot study confirmed the signal performance of both sensor types.",
+        "citation_num": 6,
+        "download_num": 290,
+        "conference": "ISWC '16",
+        "authors": [
+            "Rui Zhang",
+            "Martin Freund",
+            "Oliver Amft",
+            "Jingyuan Cheng",
+            "Bo Zhou",
+            "Paul Lukowicz",
+            "Seoane Fernando",
+            "Peter Chabrecek"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/2971763.2971785",
+        "date": "September 2016",
+        "year": "2016"
+    },
+    {
+        "title": "Connecting Textiles: Exploring Textile Interior Surfaces for Power Supply, Communication and User Interaction in the IoT",
+        "abstract": " We investigate textile-integrated components for power supply, communication and user interaction in and on home interior surfaces. A wallpaper with an integrated functional layer serves as basic infrastructure for power supply. We developed patches as ...",
+        "citation_num": 1,
+        "download_num": 250,
+        "conference": "IoT '22",
+        "authors": [
+            "Frank Beruscha",
+            "Katharina Lorenz",
+            "Anke K\u00f6nigschulte",
+            "Serge Autexier",
+            "Annika Sabrina Schulz",
+            "Bodo Pahlke",
+            "Valerie Bartsch",
+            "Hendrik Leibrandt"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3567445.3567455",
+        "date": "January 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Designing a Musical Fabric-Based Surface to Encourage Children with Autism to Practice Motor Movements",
+        "abstract": "Children with autism have difficulties in controlling the strength and timing of their movements. Neurologic music therapy uses musical instruments to promote motor development in children with autism. However, most musical instruments are not ...",
+        "citation_num": 10,
+        "download_num": 324,
+        "conference": "MexIHC'16",
+        "authors": [
+            "Vianey Vazquez",
+            "Carlos Cardenas",
+            "Franceli L. Cibrian",
+            "M\u00f3nica Tentori"
+        ],
+        "contentType": "short-paper",
+        "doi": "https://doi.org/10.1145/2967175.2967384",
+        "date": "September 2016",
+        "year": "2016"
+    },
+    {
+        "title": "spaceR: Knitting Ready-Made, Tactile, and Highly Responsive Spacer-Fabric Force Sensors for Continuous Input",
+        "abstract": " With spaceR, we present both design and implementation of a resistive force-sensor based on a spacer fabric knit. Due to its softness and elasticity, our sensor provides an appealing haptic experience. It enables continuous input with high precision ...",
+        "citation_num": 8,
+        "download_num": 1339,
+        "conference": "UIST '22",
+        "authors": [
+            "Roland Aigner",
+            "Mira Alida Haberfellner",
+            "Michael Haller"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3526113.3545694",
+        "date": "October 2022",
+        "year": "2022"
+    },
+    {
+        "title": "PhyMask: Robust Sensing of Brain Activity and Physiological Signals During Sleep with an All-textile Eye Mask",
+        "abstract": "Clinical-grade wearable sleep monitoring is a challenging problem since it requires concurrently monitoring brain activity, eye movement, muscle activity, cardio-respiratory features, and gross body movements. This requires multiple sensors to be worn at ...",
+        "citation_num": 4,
+        "download_num": 726,
+        "conference": "ACM Transactions on Computing for Healthcare (HEALTH), Volume 3, Issue 3",
+        "authors": [
+            "Soha Rostaminia",
+            "Seyedeh Zohreh Homayounfar",
+            "Ali Kiaghadi",
+            "Trisha Andrew",
+            "Deepak Ganesan"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3513023",
+        "date": "July 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Collective use of a fabric-based interactive surface to support early development in toddler classrooms",
+        "abstract": "Early instruction plays a crucial role in allowing toddlers to develop social, cognitive, and sensory-motor skills. Free play is important in any early development program, but designing activities for free play is challenging. In this paper, we ...",
+        "citation_num": 7,
+        "download_num": 448,
+        "conference": "UbiComp '16",
+        "authors": [
+            "Franceli L. Cibrian",
+            "Nadir Weibel",
+            "Monica Tentori"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2971648.2971695",
+        "date": "September 2016",
+        "year": "2016"
+    },
+    {
+        "title": "Emoband: Investigating the Affective Perception towards On-wrist Stroking and Squeezing Feedback mediated by Different Textile Materials",
+        "abstract": " This paper investigates how different textile materials on the wrist bands may mediate the affective experience of two forms of tactile icons, namely stroking and squeezing. To this end, we designed Emoband, a wrist-worn textile-based tactile display ...",
+        "citation_num": 0,
+        "download_num": 588,
+        "conference": "CHI '23",
+        "authors": [
+            "Xingyu Yang",
+            "Kening Zhu"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3544548.3580769",
+        "date": "April 2023",
+        "year": "2023"
+    },
+    {
+        "title": "A Wearable Meter That Actively Monitors the Continuity of E-Textile Circuits as They Are Sewn",
+        "abstract": "The e-textile landscape has enabled creators to combine textile materiality with electronic capability. However, the tools that e-textile creators use have been adapted from traditional textile or hardware tools. This puts creators at a disadvantage, as ...",
+        "citation_num": 3,
+        "download_num": 68,
+        "conference": "FabLearn '20",
+        "authors": [
+            "Chris Hill",
+            "Michael Schneider",
+            "Mark D Gross",
+            "Ann Eisenberg",
+            "Arielle Blum"
+        ],
+        "contentType": "short-paper",
+        "doi": "https://doi.org/10.1145/3386201.3386217",
+        "date": "November 2021",
+        "year": "2021"
+    },
+    {
+        "title": "A Stretch-Flexible Textile Multitouch Sensor for User Input on Inflatable Membrane Structures & Non-Planar Surfaces",
+        "abstract": "We present a textile sensor, capable of detecting multi-touch and multi-pressure input on non-planar surfaces and demonstrate how such sensors can be fabricated and integrated into pressure stabilized membrane envelopes (i.e. inflatables). Our sensor ...",
+        "citation_num": 6,
+        "download_num": 376,
+        "conference": "UIST '18 Adjunct",
+        "authors": [
+            "Kristian Gohlke",
+            "Eva Hornecker"
+        ],
+        "contentType": "demonstration",
+        "doi": "https://doi.org/10.1145/3266037.3271647",
+        "date": "October 2018",
+        "year": "2018"
+    },
+    {
+        "title": "Inferring Complex Textile Shape from an Integrated Carbon Black-infused Ecoflex-based Bend and Stretch Sensor Array",
+        "abstract": "We demonstrate how an array of custom-made strain and bend sensors could be integrated into a stretchable sleeve to infer the textile deformation. The angles and elongation measured by the sensors can be used by an optimisation-based algorithm to infer ...",
+        "citation_num": 3,
+        "download_num": 250,
+        "conference": "UbiComp/ISWC '21 Adjunct",
+        "authors": [
+            "Leonardo Azael Garcia-Garcia",
+            "George Valsamakis",
+            "Paul Kreitmair",
+            "Niko Munzenrieder",
+            "Daniel Roggen"
+        ],
+        "contentType": "short-paper",
+        "doi": "https://doi.org/10.1145/3460418.3479347",
+        "date": "September 2021",
+        "year": "2021"
+    },
+    {
+        "title": "Analyses of Textile Pressure-map Sensor Data of a Stuffed Toy for Understanding Human Emotional Physical Contact",
+        "abstract": "In this study, we investigate a stuffed-toy robot capable of estimating a user's emotional state via physical contact; the research is oriented toward the development of bidirectional human-robot communications. Textile-type pressure-map sensors are ...",
+        "citation_num": 4,
+        "download_num": 178,
+        "conference": "HAI '18",
+        "authors": [
+            "Tomoko Yonezawa",
+            "Hirotake Yamazoe"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3284432.3284449",
+        "date": "December 2018",
+        "year": "2018"
+    },
+    {
+        "title": "Textile Sensor-based Visualization to Enhance Skills to Understand the Body-Pressure Distribution for Pressure Ulcer Prevention",
+        "abstract": "This study proposes a system to visualize the body-pressures applied to body parts in a bed, with textile pressure sensors to support caregivers to learn posture change skill for pressure ulcer prevention. As the result of an evaluation with 21 nursing ...",
+        "citation_num": 0,
+        "download_num": 173,
+        "conference": "UbiComp '18",
+        "authors": [
+            "Ryosuke Onose",
+            "Yuko Harasawa",
+            "Yu Enokibori",
+            "Kenji Mase"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/3267305.3267644",
+        "date": "October 2018",
+        "year": "2018"
+    },
+    {
+        "title": "OmniFiber: Integrated Fluidic Fiber Actuators for Weaving Movement based Interactions into the ‘Fabric of Everyday Life’",
+        "abstract": "Fiber – a primitive yet ubiquitous form of material – intertwines with our bodies and surroundings, from constructing our fibrous muscles that enable our movement, to forming fabrics that intimately interface with our skin. In soft robotics and ...",
+        "citation_num": 30,
+        "download_num": 5685,
+        "conference": "UIST '21",
+        "authors": [
+            "Ozgun Kilic Afsar",
+            "Ali Shtarbanov",
+            "Hila Mor",
+            "Ken Nakagaki",
+            "Jack Forman",
+            "Karen Modrei",
+            "Seung Hee Jeong",
+            "Klas Hjort",
+            "Kristina Höök",
+            "Hiroshi Ishii"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3472749.3474802",
+        "date": "October 2021",
+        "year": "2021"
+    },
+    {
+        "title": "Detection of Skin Allergy Causing Chemicals in Textile Fibers using Principal Component Analysis and Support Vector Machine",
+        "abstract": "This paper presents the use of raspberry pi and an array of sensors to determine the various substances found in textile fabrics, mainly garments bought in fast fashion stores, which can be the cause of skin allergies. The support vector machine and ...",
+        "citation_num": 0,
+        "download_num": 37,
+        "conference": "ICIST '21",
+        "authors": [
+            "Jessie R. Balbin",
+            "Gio Carlo F. Bautista",
+            "Gella Mae J. Flores",
+            "Matthew C. Teves"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3507959.3507962",
+        "date": "March 2022",
+        "year": "2022"
+    },
+    {
+        "title": "Research on the Smart Fabric Interwoven with Polylactic Acid Fiber and Ramie Based on Mechanical Properties",
+        "abstract": "Based on the mechanical properties of fabrics, this paper selects sustainable materials polylactic acid fiber and ramie fiber as research materials, uses experimental methods and weaving technology, and takes interwoven fabrics with different ...",
+        "citation_num": 0,
+        "download_num": 39,
+        "conference": "AIAM2021",
+        "authors": [
+            "Zhe Li",
+            "Xin Wang"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3495018.3495144",
+        "date": "March 2022",
+        "year": "2022"
+    },
+    {
+        "title": "FabriCar: Enriching the User Experience of In-Car Media Interactions with Ubiquitous Vehicle Interiors using E-textile Sensors",
+        "abstract": " This work explores e-textiles in the design space of Human-Vehicle Interaction (HVI) and compares distraction levels between e-textile and screen-based interactions during driving tasks. We developed three prototypes (in the steering wheel, headrest ...",
+        "citation_num": 1,
+        "download_num": 787,
+        "conference": "DIS '23",
+        "authors": [
+            "Pouya M Khorsandi",
+            "Lee Jones",
+            "Vandad Davoodnia",
+            "Timothy J Lampen",
+            "Aliya Conrad",
+            "Ali Etemad",
+            "Sara Nabil"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3563657.3595988",
+        "date": "July 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Arpilleras Parlantes: Designing Educational Material for the Creation of Interactive Textile Art Based on a Traditional Chilean Craft.",
+        "abstract": " Electronic Textiles (eTextiles) and open source material has been entangled with \u201cDIY\u201d movements and hands on work to create new interactive interfaces. Studies have shown the potential these have to bring computational knowledge closer to new ...",
+        "citation_num": 2,
+        "download_num": 269,
+        "conference": "TEI '21",
+        "authors": [
+            "Sofia Guridi",
+            "Tamara Vicencio",
+            "Rodrigo Gajardo"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3430524.3440657",
+        "date": "February 2021",
+        "year": "2021"
+    },
+    {
+        "title": "Plug-and-Play Wearables: A Repositionable E-Textile Garment System to Support Custom Fit for Lower-Limb Rehabilitation Applications",
+        "abstract": "Fit of an e-textile garment has become increasingly important as more advanced wearable technology applications demand precise placement of sensors and actuators. Human anthropometry is complex and varied, and for many applications, a single e-textile ...",
+        "citation_num": 0,
+        "download_num": 80,
+        "conference": "UbiComp/ISWC '23 Adjunct",
+        "authors": [
+            "Heidi Woelfle",
+            "Olaitan Adeleke",
+            "Niharikha Subash",
+            "Alireza Golgouneh",
+            "Brad Holschuh",
+            "Lucy E. Dunne"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3594739.3610785",
+        "date": "October 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Adaptive Soft Switches: Co-Designing Fabric Adaptive Switches with Occupational Therapists for Children and Adolescents with Acquired Brain Injury",
+        "abstract": " Acquired brain injuries have many complexities, largely affecting motor and cognitive functioning. Occupational therapists often use switches attached to electronics that activate the devices to give people with disabilities the ability to interact ...",
+        "citation_num": 0,
+        "download_num": 763,
+        "conference": "TEI '23",
+        "authors": [
+            "Karen Anne Cochrane",
+            "Chau Nguyen",
+            "Yidan Cao",
+            "Noemi M. E. Roestel",
+            "Lee Jones",
+            "Audrey Girouard"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3569009.3572734",
+        "date": "February 2023",
+        "year": "2023"
+    },
+    {
+        "title": "Expansion of Textile Expression Utilizing Op Art Methods and Transmissive Liquid Crystal Film, and Progress toward Its Use in Garments",
+        "abstract": "In this study, we describe the development of new textiles and garments created through the cross-fertilization of op art methods and smart materials. We have developed a pattern expression method that involves layering transmissive liquid crystal film ...",
+        "citation_num": 1,
+        "download_num": 120,
+        "conference": "DIS '18 Companion",
+        "authors": [
+            "Masato Sekine",
+            "Naoya Watabe",
+            "Miki Yamamura",
+            "Hiroko Uchiyama"
+        ],
+        "contentType": "demonstration",
+        "doi": "https://doi.org/10.1145/3197391.3205389",
+        "date": "May 2018",
+        "year": "2018"
+    },
+    {
+        "title": "Smart textile objects and conductible ink as a context for arts based teaching and learning of computational thinking at primary school",
+        "abstract": "The shaping of Smart Textile artefacts brings together a variety of learning activities, such as imagining, designing, drawing, constructing, wiring, programming, controlling, testing, debugging and presenting self-made, invented media objects, realized ...",
+        "citation_num": 12,
+        "download_num": 269,
+        "conference": "TEEM '16",
+        "authors": [
+            "Daniela Reimann",
+            "Christiane Maday"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3012430.3012493",
+        "date": "November 2016",
+        "year": "2016"
+    },
+    {
+        "title": "Touch Connection: A Vibrotactile, Textile Prototype",
+        "abstract": "Touch Connection is a pair of digitally embroidered textile surfaces with vibrotactile capability. The surfaces are designed as a paired system, to enable people to connect, share touch responses and construct communal tactile experiences. It consists ...",
+        "citation_num": 1,
+        "download_num": 318,
+        "conference": "TEI '18",
+        "authors": [
+            "Lucie Hernandez"
+        ],
+        "contentType": "Work in Progress",
+        "doi": "https://doi.org/10.1145/3173225.3173293",
+        "date": "March 2018",
+        "year": "2018"
+    },
+    {
+        "title": "Cloth displays: interacting with drapable textile screens",
+        "abstract": "In this paper, we present a user interface for a textile computer display. It allows users to interact in ways that flow from the natural properties of cloth, with an interface that physically conforms to the shape of the object on which a task is ...",
+        "citation_num": 22,
+        "download_num": 847,
+        "conference": "TEI '11",
+        "authors": [
+            "Julian Lepinski",
+            "Roel Vertegaal"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/1935701.1935765",
+        "date": "January 2010",
+        "year": "2010"
+    },
+    {
+        "title": "Actuating mood: design of the textile mirror",
+        "abstract": "In his 1962 short story, \"1000 Dreams of Bellavista,\" sci-fi author J. G Ballard describes a future in which \"psychotropic\" homes exist and are designed to \"feel and react\" to the emotions of their occupants [1]. Today with the rise of affective ...",
+        "citation_num": 21,
+        "download_num": 863,
+        "conference": "TEI '13",
+        "authors": [
+            "Felecia Davis",
+            "Asta Roseway",
+            "Erin Carroll",
+            "Mary Czerwinski"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2460625.2460640",
+        "date": "February 2013",
+        "year": "2013"
+    },
+    {
+        "title": "Zstretch: a stretchy fabric music controller",
+        "abstract": "We present Zstretch, a textile music controller that supports expressive haptic interactions. The musical controller takes advantage of the fabric's topological constraints to enable proportional control of musical parameters. This novel interface ...",
+        "citation_num": 8,
+        "download_num": 402,
+        "conference": "NIME '07",
+        "authors": [
+            "Angela Chang",
+            "Hiroshi Ishii"
+        ],
+        "contentType": "Article",
+        "doi": "https://doi.org/10.1145/1279740.1279746",
+        "date": "June 2007",
+        "year": "2007"
+    },
+    {
+        "title": "PocketTouch: through-fabric capacitive touch input",
+        "abstract": "PocketTouch is a capacitive sensing prototype that enables eyes-free multitouch input on a handheld device without having to remove the device from the pocket of one's pants, shirt, bag, or purse. PocketTouch enables a rich set of gesture interactions, ...",
+        "citation_num": 77,
+        "download_num": 1366,
+        "conference": "UIST '11",
+        "authors": [
+            "T. Scott Saponas",
+            "Chris Harrison",
+            "Hrvoje Benko"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2047196.2047235",
+        "date": "October 2011",
+        "year": "2011"
+    },
+    {
+        "title": "BubbleWrap: a textile-based electromagnetic haptic display",
+        "abstract": "We are investigating actuators that are able to provide different types of haptic sensations and that can be wrapped around a wide range of surfaces and objects. Our first prototype, BubbleWrap, consists of a matrix of electromagnetic actuators, ...",
+        "citation_num": 27,
+        "download_num": 2012,
+        "conference": "CHI EA '09",
+        "authors": [
+            "Olivier Bau",
+            "Uros Petrevski",
+            "Wendy Mackay"
+        ],
+        "contentType": "extended-abstract",
+        "doi": "https://doi.org/10.1145/1520340.1520542",
+        "date": "April 2009",
+        "year": "2009"
+    },
+    {
+        "title": "Patchwork: an expressive e-textile construction kit",
+        "abstract": "Though critical engagement with identity usually does not begin until adolescence, children begin developing the foundations of their understanding about identity at a young age. Patchwork is an interactive construction kit which enriches learners' ...",
+        "citation_num": 10,
+        "download_num": 247,
+        "conference": "IDC '18",
+        "authors": [
+            "Amanda Boone",
+            "Eileen Rivera",
+            "Jacob Wolf"
+        ],
+        "contentType": "demonstration",
+        "doi": "https://doi.org/10.1145/3202185.3210770",
+        "date": "June 2018",
+        "year": "2018"
+    },
+    {
+        "title": "Grabrics: A Foldable Two-Dimensional Textile Input Controller",
+        "abstract": "Textile interfaces can be ubiquitously integrated into the fabrics that already surround us. So far, existing interfaces transfer concepts, such as buttons and sliders, to the textile domain without leveraging the affordances and qualities of fabric. ...",
+        "citation_num": 13,
+        "download_num": 437,
+        "conference": "CHI EA '16",
+        "authors": [
+            "Nur Al-huda Hamdan",
+            "Florian Heller",
+            "Chat Wacharamanotham",
+            "Jan Thar",
+            "Jan Borchers"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/2851581.2892529",
+        "date": "May 2016",
+        "year": "2016"
+    },
+    {
+        "title": "Threadsteading: Playful Interaction for Textile Fabrication Devices",
+        "abstract": "Our interaction -- Threadsteading -- combines game design practices, traditional crafting techniques of quilting and embroidery, and existing fabrication technologies to produce an innovative game experience that results in a tangible artifact at the ...",
+        "citation_num": 20,
+        "download_num": 496,
+        "conference": "CHI EA '16",
+        "authors": [
+            "Lea Albaugh",
+            "April Grow",
+            "Chenxi Liu",
+            "James McCann",
+            "Gillian Smith",
+            "Jennifer Mankoff"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/2851581.2889466",
+        "date": "May 2016",
+        "year": "2016"
+    },
+    {
+        "title": "Pattern Stations: Extending Textile Materials through Tangible Interaction",
+        "abstract": "Pattern Stations is a collaborative project between textile designer and artist Cecilia Heffer and interface designer and interaction researcher Bert Bongers. The interactive installations create patterns, extending the textile patterns through sensors, ...",
+        "citation_num": 2,
+        "download_num": 328,
+        "conference": "TEI '15",
+        "authors": [
+            "Bert Bongers",
+            "Cecilia Heffer"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/2677199.2690871",
+        "date": "January 2015",
+        "year": "2015"
+    },
+    {
+        "title": "Disobedient Antennas: Breaking the Rules of Textile Antenna Design",
+        "abstract": "Contemporarily, antennas are receding into their parent devices, minimizing or disappearing completely from sight. They are affected by the technological trend toward miniaturization of electronic devices [8]. Similarly, textile antennas are being ...",
+        "citation_num": 4,
+        "download_num": 81,
+        "conference": "DIS' 20 Companion",
+        "authors": [
+            "Erin Lewis"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3393914.3395843",
+        "date": "July 2020",
+        "year": "2020"
+    },
+    {
+        "title": "ShapeSense3D: textile-sensing and reconstruction of body geometries",
+        "abstract": "We present an implementation of a textile sensing sleeve with attached strain sensors to capture the shape of body parts. A shape reconstruction algorithm was developed to reconstruct a geometrical model of the deformed sleeve using the elongation ...",
+        "citation_num": 7,
+        "download_num": 259,
+        "conference": "UbiComp/ISWC '19 Adjunct",
+        "authors": [
+            "Pasindu Lugoda",
+            "Leonardo A. Garcia-Garcia",
+            "Sebastien Richoz",
+            "Niko Munzenrieder",
+            "Daniel Roggen"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/3341162.3343846",
+        "date": "September 2019",
+        "year": "2019"
+    },
+    {
+        "title": "Filum: A Sewing Technique to Alter Textile Shapes",
+        "abstract": "We propose a novel shape-changing technique called Filum, which makes it possible to alter the shapes of textiles to better suit the requirements of people and the environment. Using strings and various sewing methods, ordinary textiles can be ...",
+        "citation_num": 10,
+        "download_num": 358,
+        "conference": "UIST '17 Adjunct",
+        "authors": [
+            "Tomomi Kono",
+            "Keita Watanabe"
+        ],
+        "contentType": "demonstration",
+        "doi": "https://doi.org/10.1145/3131785.3131797",
+        "date": "October 2017",
+        "year": "2017"
+    },
+    {
+        "title": "TableHop: An Actuated Fabric Display Using Transparent Electrodes",
+        "abstract": "We present TableHop, a tabletop display that provides controlled self-actuated deformation and vibro-tactile feedback to an elastic fabric surface while retaining the ability for high-resolution visual projection. The surface is made of a highly ...",
+        "citation_num": 33,
+        "download_num": 1711,
+        "conference": "CHI '16",
+        "authors": [
+            "Deepak Ranjan Sahoo",
+            "Kasper Hornb\u00e6k",
+            "Sriram Subramanian"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2858036.2858544",
+        "date": "May 2016",
+        "year": "2016"
+    },
+    {
+        "title": "Diversity in Digital Fabrication: Programming Personally Meaningful Textile Imprints",
+        "abstract": "In this paper we present an approach on how novices' programming can lead to personally meaningful everyday artifacts using digital fabrication. We tie in with participants' likes, experiences or wishes and use programming to create simple designs from ...",
+        "citation_num": 3,
+        "download_num": 132,
+        "conference": "FabLearn Europe'18",
+        "authors": [
+            "Nadine Dittert",
+            "Eva-Sophie Katterfeldt"
+        ],
+        "contentType": "demonstration",
+        "doi": "https://doi.org/10.1145/3213818.3219812",
+        "date": "June 2018",
+        "year": "2018"
+    },
+    {
+        "title": "Baby Tango: Electronic Textile Toys for Full-Body Interaction",
+        "abstract": "We describe two prototypes from the Baby Tango project: electronic textile toys that enable soft, tangible, full-body interaction. It presents interaction techniques that bridge the physical, the digital, and the social, as well as a case study in ...",
+        "citation_num": 10,
+        "download_num": 334,
+        "conference": "TEI '19",
+        "authors": [
+            "Joanna Berzowska",
+            "Alex Mommersteeg",
+            "Laura Isabel Rosero Grueso",
+            "Eric Ducray",
+            "Michael Patrick Rabo",
+            "Genevi\u00e8ve Moisan"
+        ],
+        "contentType": "Work in Progress",
+        "doi": "https://doi.org/10.1145/3294109.3300973",
+        "date": "March 2019",
+        "year": "2019"
+    },
+    {
+        "title": "Laugh Log: E-textile Bellyband Interface for Laugh Logging",
+        "abstract": "In this study, we propose Laugh Log, an e-textile bellyband interface for laugh detection. Laugh Log measures pressure on the abdomen and detects laughter based on pressure changes. In this paper, we developed a corset type Laugh Log prototype system ...",
+        "citation_num": 5,
+        "download_num": 186,
+        "conference": "CHI EA '17",
+        "authors": [
+            "Ayaka Shimasaki",
+            "Ryoko Ueoka"
+        ],
+        "contentType": "abstract",
+        "doi": "https://doi.org/10.1145/3027063.3053104",
+        "date": "May 2017",
+        "year": "2017"
+    },
+    {
+        "title": "Grabbing at an angle: menu selection for fabric interfaces",
+        "abstract": "This paper investigates the pinch angle as a menu selection technique for two-dimensional foldable textile controllers. Based on the principles of marking menus, the selection of a menu item is performed by grabbing a fold at a specific angle, while ...",
+        "citation_num": 26,
+        "download_num": 501,
+        "conference": "ISWC '16",
+        "authors": [
+            "Nur Al-huda Hamdan",
+            "Jeffrey R. Blum",
+            "Florian Heller",
+            "Ravi Kanth Kosuru",
+            "Jan Borchers"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/2971763.2971786",
+        "date": "September 2016",
+        "year": "2016"
+    },
+    {
+        "title": "Reach: dynamic textile patterns for communication and social expression",
+        "abstract": "In the research project 'Reach', we investigate the potential for new forms of communication and expression to be incorporated dynamically and interactively into the things to be worn everyday. Through a series of iterative prototypes, we have explored ...",
+        "citation_num": 17,
+        "download_num": 709,
+        "conference": "CHI EA '05",
+        "authors": [
+            "Margot Jacobs",
+            "Linda Worbin"
+        ],
+        "contentType": "Article",
+        "doi": "https://doi.org/10.1145/1056808.1056949",
+        "date": "April 2005",
+        "year": "2005"
+    },
+    {
+        "title": "Smart Arse: Posture Classification with Textile Sensors in Trousers",
+        "abstract": "Body posture is a good indicator of, amongst other things, people's state of arousal, focus of attention and level of interest in a conversation. Posture is conventionally measured by observation and hand coding of videos or, more recently, through ...",
+        "citation_num": 14,
+        "download_num": 423,
+        "conference": "ICMI '18",
+        "authors": [
+            "Sophie Skach",
+            "Rebecca Stewart",
+            "Patrick G. T. Healey"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3242969.3242977",
+        "date": "October 2018",
+        "year": "2018"
+    },
+    {
+        "title": "Breaking boundaries: strategies for mentoring through textile computing workshops",
+        "abstract": "With over 13.3 million children living below poverty line in the United States, there is a pressing need for engaging HCI research with children at the socio-economic margins. Drawing from design studio culture and art therapy literature, we explore ...",
+        "citation_num": 22,
+        "download_num": 564,
+        "conference": "CHI '11",
+        "authors": [
+            "Stacey Kuznetsov",
+            "Laura C. Trutoiu",
+            "Casey Kute",
+            "Iris Howley",
+            "Eric Paulos",
+            "Dan Siewiorek"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/1978942.1979380",
+        "date": "May 2011",
+        "year": "2011"
+    },
+    {
+        "title": "LilyPond: an online community for sharing e-textile projects",
+        "abstract": "LilyPond is a new online community that enables people to document, share and browse e-textile projects---projects that blend electronics, computation and textiles. It was designed to be a project repository and a community gathering place for students, ...",
+        "citation_num": 8,
+        "download_num": 475,
+        "conference": "C&C '11",
+        "authors": [
+            "Emily Lovell",
+            "Leah Buechley"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/2069618.2069698",
+        "date": "November 2011",
+        "year": "2011"
+    },
+    {
+        "title": "AmbiKraf: a ubiquitous non-emissive color changing fabric display",
+        "abstract": "This paper presents, AmbiKraf, a non-emissive fabric display that subtly animates patterns on common fabrics. We use thermochromic inks and peltier semiconductor elements to achieve this technology. With this technology we have produced numerous ...",
+        "citation_num": 10,
+        "download_num": 328,
+        "conference": "MindTrek '11",
+        "authors": [
+            "Roshan Lalintha Peiris",
+            "Mili John Tharakan",
+            "Adrian David Cheok",
+            "Owen Noel Newton"
+        ],
+        "contentType": "poster",
+        "doi": "https://doi.org/10.1145/2181037.2181096",
+        "date": "September 2011",
+        "year": "2011"
+    },
+    {
+        "title": "bYOB [Build Your Own Bag]: a computationally-enhanced modular textile system",
+        "abstract": "We present bYOB (Build Your Own Bag), a flexible, computationally enhanced modular textile system from which to construct smart fabric objects. bYOB was motivated by a desire to transform everyday surfaces into ambient displays for information and to ...",
+        "citation_num": 13,
+        "download_num": 390,
+        "conference": "MUM '04",
+        "authors": [
+            "Gauri Nanda",
+            "Adrian Cable",
+            "V. Michael Bove",
+            "Moneta Ho",
+            "Han Hoang"
+        ],
+        "contentType": "Article",
+        "doi": "https://doi.org/10.1145/1052380.1052381",
+        "date": "October 2004",
+        "year": "2004"
+    },
+    {
+        "title": "Strike A Pose: Capturing Non-Verbal Behaviour with Textile Sensors",
+        "abstract": "This work searches to explore the potential of textile sensing systems as a new modality of capturing social behaviour. Hereby, the focus lies on evaluating the performance of embedded pressure sensors as reliable detectors for social cues, such as ...",
+        "citation_num": 0,
+        "download_num": 119,
+        "conference": "ICMI '18",
+        "authors": [
+            "Sophie Skach"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3242969.3264968",
+        "date": "October 2018",
+        "year": "2018"
+    },
+    {
+        "title": "DefeXtiles: 3D Printing Quasi-Woven Fabric via Under-Extrusion",
+        "abstract": "We present DefeXtiles, a rapid and low-cost technique to produce tulle-like fabrics on unmodified fused deposition modeling (FDM) printers. The under-extrusion of filament is a common cause of print failure, resulting in objects with periodic gap ...",
+        "citation_num": 47,
+        "download_num": 2481,
+        "conference": "UIST '20",
+        "authors": [
+            "Jack Forman",
+            "Mustafa Doga Dogan",
+            "Hamilton Forsythe",
+            "Hiroshi Ishii"
+        ],
+        "contentType": "research-article",
+        "doi": "https://doi.org/10.1145/3379337.3415876",
+        "date": "October 2020",
+        "year": "2020"
+    }
+]
