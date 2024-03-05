@@ -7,6 +7,11 @@
 - __Image__. Using the doi, I used a scraper to download all pdf files (if applicable) of the scraped papers. The purpose of this is that I want to extract representative images of each paper (in HCI Fabrication research, images are CRUCIAL!). With [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/recipes-images.html), I extracted the first image from the pdf. Image size filter was applied to avoid extracting some logos. Then I mannually went over all the images and replace inappropriate ones. The images were stored in Firebase __storage__.
 - __Keywords__. I have a list of aspects that I'm interested in for each paper, including "fabrication methods", "tools/machines used", "materials used", etc. Therefore, I used Gemini and carefully adjusted prompt to generate these keywords and add them to the metadata of each paper.
 
+# Files
+- `scraper.ipynb`: the main Python scraper script.
+- `RAG.ipynb`: The RAG script, decompose pdf text, convert to vectors and store in Pinecone database.
+- `keywordsTest.ipynb`: Several trials I did on generating keywords for papers (including using some pretrained NLP models and the Gemini).
+
 # RAG
 This is the funnies part. I want to embed an AI research agent into my application. And I needed to provide context for the LLM to generate more relavant answers. I used [RAG](https://www.pinecone.io/learn/retrieval-augmented-generation/) to achieve this. Source code in `RAG.ipynb`.
 
